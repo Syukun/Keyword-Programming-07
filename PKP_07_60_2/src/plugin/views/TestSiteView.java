@@ -628,8 +628,8 @@ public class TestSiteView extends org.eclipse.ui.part.ViewPart{
 				manager.add(selectAllAction);
 				manager.add(unSelectAllAction);
 				manager.add(countTaskAction);
-//				manager.add(arrangeTaskAction);
-//				manager.add(experimentAction);
+				manager.add(arrangeTaskAction);
+				manager.add(experimentAction);
 				
 				manager.add(new Separator(IWorkbenchActionConstants.MB_ADDITIONS));
 			}
