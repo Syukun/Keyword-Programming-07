@@ -1,0 +1,1331 @@
+15, 38599, -5.0, 1.0, -5.0, 0.0, 24, 0, new BufferedReader(), -2.0
+15, 38600, -5.0, 1.0, -5.0, 0.5, 24, 0, new BufferedReader(), -2.0
+15, 38601, -5.0, 1.0, -5.0, 1.0, 24, 0, new BufferedReader(), -2.0
+15, 38602, -5.0, 1.0, -5.0, 1.5, 24, 0, new BufferedReader(), -2.0
+15, 38603, -5.0, 1.0, -5.0, 2.0, 24, 0, new BufferedReader(), -2.0
+15, 38604, -5.0, 1.0, -5.0, 2.5, 24, 0, new BufferedReader(), -2.0
+15, 38605, -5.0, 1.0, -5.0, 3.0, 24, 0, new BufferedReader(), -2.0
+15, 38606, -5.0, 1.0, -5.0, 3.5, 24, 0, new BufferedReader(), -2.0
+15, 38607, -5.0, 1.0, -5.0, 4.0, 24, 0, new BufferedReader(), -2.0
+15, 38608, -5.0, 1.0, -5.0, 4.5, 24, 0, new BufferedReader(), -2.0
+15, 38609, -5.0, 1.0, -5.0, 5.0, 24, 0, new BufferedReader(), -2.0
+15, 38610, -5.0, 1.0, -4.5, 0.0, 24, 0, new BufferedReader(), -2.0
+15, 38611, -5.0, 1.0, -4.5, 0.5, 24, 0, new BufferedReader(), -2.0
+15, 38612, -5.0, 1.0, -4.5, 1.0, 24, 0, new BufferedReader(), -2.0
+15, 38613, -5.0, 1.0, -4.5, 1.5, 24, 0, new BufferedReader(), -2.0
+15, 38614, -5.0, 1.0, -4.5, 2.0, 24, 0, new BufferedReader(), -2.0
+15, 38615, -5.0, 1.0, -4.5, 2.5, 24, 0, new BufferedReader(), -2.0
+15, 38616, -5.0, 1.0, -4.5, 3.0, 24, 0, new BufferedReader(), -2.0
+15, 38617, -5.0, 1.0, -4.5, 3.5, 24, 0, new BufferedReader(), -2.0
+15, 38618, -5.0, 1.0, -4.5, 4.0, 24, 0, new BufferedReader(), -2.0
+15, 38619, -5.0, 1.0, -4.5, 4.5, 24, 0, new BufferedReader(), -2.0
+15, 38620, -5.0, 1.0, -4.5, 5.0, 24, 0, new BufferedReader(), -2.0
+15, 38621, -5.0, 1.0, -4.0, 0.0, 24, 0, new BufferedReader(), -2.0
+15, 38622, -5.0, 1.0, -4.0, 0.5, 24, 0, new BufferedReader(), -2.0
+15, 38623, -5.0, 1.0, -4.0, 1.0, 24, 0, new BufferedReader(), -2.0
+15, 38624, -5.0, 1.0, -4.0, 1.5, 24, 0, new BufferedReader(), -2.0
+15, 38625, -5.0, 1.0, -4.0, 2.0, 24, 0, new BufferedReader(), -2.0
+15, 38626, -5.0, 1.0, -4.0, 2.5, 24, 0, new BufferedReader(), -2.0
+15, 38627, -5.0, 1.0, -4.0, 3.0, 24, 0, new BufferedReader(), -2.0
+15, 38628, -5.0, 1.0, -4.0, 3.5, 24, 0, new BufferedReader(), -2.0
+15, 38629, -5.0, 1.0, -4.0, 4.0, 24, 0, new BufferedReader(), -2.0
+15, 38630, -5.0, 1.0, -4.0, 4.5, 24, 0, new BufferedReader(), -2.0
+15, 38631, -5.0, 1.0, -4.0, 5.0, 24, 0, new BufferedReader(), -2.0
+15, 38632, -5.0, 1.0, -3.5, 0.0, 24, 0, new BufferedReader(), -2.0
+15, 38633, -5.0, 1.0, -3.5, 0.5, 24, 0, new BufferedReader(), -2.0
+15, 38634, -5.0, 1.0, -3.5, 1.0, 24, 0, new BufferedReader(), -2.0
+15, 38635, -5.0, 1.0, -3.5, 1.5, 24, 0, new BufferedReader(), -2.0
+15, 38636, -5.0, 1.0, -3.5, 2.0, 24, 0, new BufferedReader(), -2.0
+15, 38637, -5.0, 1.0, -3.5, 2.5, 24, 0, new BufferedReader(), -2.0
+15, 38638, -5.0, 1.0, -3.5, 3.0, 24, 0, new BufferedReader(), -2.0
+15, 38639, -5.0, 1.0, -3.5, 3.5, 24, 0, new BufferedReader(), -2.0
+15, 38640, -5.0, 1.0, -3.5, 4.0, 24, 0, new BufferedReader(), -2.0
+15, 38641, -5.0, 1.0, -3.5, 4.5, 24, 0, new BufferedReader(), -2.0
+15, 38642, -5.0, 1.0, -3.5, 5.0, 24, 0, new BufferedReader(), -2.0
+15, 38643, -5.0, 1.0, -3.0, 0.0, 24, 0, new BufferedReader(), -2.0
+15, 38644, -5.0, 1.0, -3.0, 0.5, 24, 0, new BufferedReader(), -2.0
+15, 38645, -5.0, 1.0, -3.0, 1.0, 24, 0, new BufferedReader(), -2.0
+15, 38646, -5.0, 1.0, -3.0, 1.5, 24, 0, new BufferedReader(), -2.0
+15, 38647, -5.0, 1.0, -3.0, 2.0, 24, 0, new BufferedReader(), -2.0
+15, 38648, -5.0, 1.0, -3.0, 2.5, 24, 0, new BufferedReader(), -2.0
+15, 38649, -5.0, 1.0, -3.0, 3.0, 24, 0, new BufferedReader(), -2.0
+15, 38650, -5.0, 1.0, -3.0, 3.5, 24, 0, new BufferedReader(), -2.0
+15, 38651, -5.0, 1.0, -3.0, 4.0, 24, 0, new BufferedReader(), -2.0
+15, 38652, -5.0, 1.0, -3.0, 4.5, 24, 0, new BufferedReader(), -2.0
+15, 38653, -5.0, 1.0, -3.0, 5.0, 24, 0, new BufferedReader(), -2.0
+15, 38654, -5.0, 1.0, -2.5, 0.0, 24, 0, new BufferedReader(), -2.0
+15, 38655, -5.0, 1.0, -2.5, 0.5, 24, 0, new BufferedReader(), -2.0
+15, 38656, -5.0, 1.0, -2.5, 1.0, 24, 0, new BufferedReader(), -2.0
+15, 38657, -5.0, 1.0, -2.5, 1.5, 24, 0, new BufferedReader(), -2.0
+15, 38658, -5.0, 1.0, -2.5, 2.0, 24, 0, new BufferedReader(), -2.0
+15, 38659, -5.0, 1.0, -2.5, 2.5, 24, 0, new BufferedReader(), -2.0
+15, 38660, -5.0, 1.0, -2.5, 3.0, 24, 0, new BufferedReader(), -2.0
+15, 38661, -5.0, 1.0, -2.5, 3.5, 24, 0, new BufferedReader(), -2.0
+15, 38662, -5.0, 1.0, -2.5, 4.0, 24, 0, new BufferedReader(), -2.0
+15, 38663, -5.0, 1.0, -2.5, 4.5, 24, 0, new BufferedReader(), -2.0
+15, 38664, -5.0, 1.0, -2.5, 5.0, 24, 0, new BufferedReader(), -2.0
+15, 38665, -5.0, 1.0, -2.0, 0.0, 24, 0, new BufferedReader(), -2.0
+15, 38666, -5.0, 1.0, -2.0, 0.5, 24, 0, new BufferedReader(), -2.0
+15, 38667, -5.0, 1.0, -2.0, 1.0, 24, 0, new BufferedReader(), -2.0
+15, 38668, -5.0, 1.0, -2.0, 1.5, 24, 0, new BufferedReader(), -2.0
+15, 38669, -5.0, 1.0, -2.0, 2.0, 24, 0, new BufferedReader(), -2.0
+15, 38670, -5.0, 1.0, -2.0, 2.5, 24, 0, new BufferedReader(), -2.0
+15, 38671, -5.0, 1.0, -2.0, 3.0, 24, 0, new BufferedReader(), -2.0
+15, 38672, -5.0, 1.0, -2.0, 3.5, 24, 0, new BufferedReader(), -2.0
+15, 38673, -5.0, 1.0, -2.0, 4.0, 24, 0, new BufferedReader(), -2.0
+15, 38674, -5.0, 1.0, -2.0, 4.5, 24, 0, new BufferedReader(), -2.0
+15, 38675, -5.0, 1.0, -2.0, 5.0, 24, 0, new BufferedReader(), -2.0
+15, 38676, -5.0, 1.0, -1.5, 0.0, 24, 0, new BufferedReader(), -2.0
+15, 38677, -5.0, 1.0, -1.5, 0.5, 24, 0, new BufferedReader(), -2.0
+15, 38678, -5.0, 1.0, -1.5, 1.0, 24, 0, new BufferedReader(), -2.0
+15, 38679, -5.0, 1.0, -1.5, 1.5, 24, 0, new BufferedReader(), -2.0
+15, 38680, -5.0, 1.0, -1.5, 2.0, 24, 0, new BufferedReader(), -2.0
+15, 38681, -5.0, 1.0, -1.5, 2.5, 24, 0, new BufferedReader(), -2.0
+15, 38682, -5.0, 1.0, -1.5, 3.0, 24, 0, new BufferedReader(), -2.0
+15, 38683, -5.0, 1.0, -1.5, 3.5, 24, 0, new BufferedReader(), -2.0
+15, 38684, -5.0, 1.0, -1.5, 4.0, 24, 0, new BufferedReader(), -2.0
+15, 38685, -5.0, 1.0, -1.5, 4.5, 24, 0, new BufferedReader(), -2.0
+15, 38686, -5.0, 1.0, -1.5, 5.0, 24, 0, new BufferedReader(), -2.0
+15, 38687, -5.0, 1.0, -1.0, 0.0, 24, 0, new BufferedReader(), -2.0
+15, 38688, -5.0, 1.0, -1.0, 0.5, 24, 0, new BufferedReader(), -2.0
+15, 38689, -5.0, 1.0, -1.0, 1.0, 24, 0, new BufferedReader(), -2.0
+15, 38690, -5.0, 1.0, -1.0, 1.5, 24, 0, new BufferedReader(), -2.0
+15, 38691, -5.0, 1.0, -1.0, 2.0, 24, 0, new BufferedReader(), -2.0
+15, 38692, -5.0, 1.0, -1.0, 2.5, 24, 0, new BufferedReader(), -2.0
+15, 38693, -5.0, 1.0, -1.0, 3.0, 24, 0, new BufferedReader(), -2.0
+15, 38694, -5.0, 1.0, -1.0, 3.5, 24, 0, new BufferedReader(), -2.0
+15, 38695, -5.0, 1.0, -1.0, 4.0, 24, 0, new BufferedReader(), -2.0
+15, 38696, -5.0, 1.0, -1.0, 4.5, 24, 0, new BufferedReader(), -2.0
+15, 38697, -5.0, 1.0, -1.0, 5.0, 24, 0, new BufferedReader(), -2.0
+15, 38698, -5.0, 1.0, -0.5, 0.0, 24, 0, new BufferedReader(), -2.0
+15, 38699, -5.0, 1.0, -0.5, 0.5, 24, 0, new BufferedReader(), -2.0
+15, 38700, -5.0, 1.0, -0.5, 1.0, 24, 0, new BufferedReader(), -2.0
+15, 38701, -5.0, 1.0, -0.5, 1.5, 24, 0, new BufferedReader(), -2.0
+15, 38702, -5.0, 1.0, -0.5, 2.0, 24, 0, new BufferedReader(), -2.0
+15, 38703, -5.0, 1.0, -0.5, 2.5, 24, 0, new BufferedReader(), -2.0
+15, 38704, -5.0, 1.0, -0.5, 3.0, 24, 0, new BufferedReader(), -2.0
+15, 38705, -5.0, 1.0, -0.5, 3.5, 24, 0, new BufferedReader(), -2.0
+15, 38706, -5.0, 1.0, -0.5, 4.0, 24, 0, new BufferedReader(), -2.0
+15, 38707, -5.0, 1.0, -0.5, 4.5, 24, 0, new BufferedReader(), -2.0
+15, 38708, -5.0, 1.0, -0.5, 5.0, 24, 0, new BufferedReader(), -2.0
+15, 38709, -5.0, 1.0, 0.0, 0.0, 24, 0, new BufferedReader(), -2.0
+15, 38710, -5.0, 1.0, 0.0, 0.5, 24, 0, new BufferedReader(), -2.0
+15, 38711, -5.0, 1.0, 0.0, 1.0, 24, 0, new BufferedReader(), -2.0
+15, 38712, -5.0, 1.0, 0.0, 1.5, 24, 0, new BufferedReader(), -2.0
+15, 38713, -5.0, 1.0, 0.0, 2.0, 24, 0, new BufferedReader(), -2.0
+15, 38714, -5.0, 1.0, 0.0, 2.5, 24, 0, new BufferedReader(), -2.0
+15, 38715, -5.0, 1.0, 0.0, 3.0, 24, 0, new BufferedReader(), -2.0
+15, 38716, -5.0, 1.0, 0.0, 3.5, 24, 0, new BufferedReader(), -2.0
+15, 38717, -5.0, 1.0, 0.0, 4.0, 24, 0, new BufferedReader(), -2.0
+15, 38718, -5.0, 1.0, 0.0, 4.5, 24, 0, new BufferedReader(), -2.0
+15, 38719, -5.0, 1.0, 0.0, 5.0, 24, 0, new BufferedReader(), -2.0
+15, 38720, -4.5, 1.0, -5.0, 0.0, 24, 0, new BufferedReader(), -1.5
+15, 38721, -4.5, 1.0, -5.0, 0.5, 24, 0, new BufferedReader(), -1.5
+15, 38722, -4.5, 1.0, -5.0, 1.0, 24, 0, new BufferedReader(), -1.5
+15, 38723, -4.5, 1.0, -5.0, 1.5, 24, 0, new BufferedReader(), -1.5
+15, 38724, -4.5, 1.0, -5.0, 2.0, 24, 0, new BufferedReader(), -1.5
+15, 38725, -4.5, 1.0, -5.0, 2.5, 24, 0, new BufferedReader(), -1.5
+15, 38726, -4.5, 1.0, -5.0, 3.0, 24, 0, new BufferedReader(), -1.5
+15, 38727, -4.5, 1.0, -5.0, 3.5, 24, 0, new BufferedReader(), -1.5
+15, 38728, -4.5, 1.0, -5.0, 4.0, 24, 0, new BufferedReader(), -1.5
+15, 38729, -4.5, 1.0, -5.0, 4.5, 24, 0, new BufferedReader(), -1.5
+15, 38730, -4.5, 1.0, -5.0, 5.0, 24, 0, new BufferedReader(), -1.5
+15, 38731, -4.5, 1.0, -4.5, 0.0, 24, 0, new BufferedReader(), -1.5
+15, 38732, -4.5, 1.0, -4.5, 0.5, 24, 0, new BufferedReader(), -1.5
+15, 38733, -4.5, 1.0, -4.5, 1.0, 24, 0, new BufferedReader(), -1.5
+15, 38734, -4.5, 1.0, -4.5, 1.5, 24, 0, new BufferedReader(), -1.5
+15, 38735, -4.5, 1.0, -4.5, 2.0, 24, 0, new BufferedReader(), -1.5
+15, 38736, -4.5, 1.0, -4.5, 2.5, 24, 0, new BufferedReader(), -1.5
+15, 38737, -4.5, 1.0, -4.5, 3.0, 24, 0, new BufferedReader(), -1.5
+15, 38738, -4.5, 1.0, -4.5, 3.5, 24, 0, new BufferedReader(), -1.5
+15, 38739, -4.5, 1.0, -4.5, 4.0, 24, 0, new BufferedReader(), -1.5
+15, 38740, -4.5, 1.0, -4.5, 4.5, 24, 0, new BufferedReader(), -1.5
+15, 38741, -4.5, 1.0, -4.5, 5.0, 24, 0, new BufferedReader(), -1.5
+15, 38742, -4.5, 1.0, -4.0, 0.0, 24, 0, new BufferedReader(), -1.5
+15, 38743, -4.5, 1.0, -4.0, 0.5, 24, 0, new BufferedReader(), -1.5
+15, 38744, -4.5, 1.0, -4.0, 1.0, 24, 0, new BufferedReader(), -1.5
+15, 38745, -4.5, 1.0, -4.0, 1.5, 24, 0, new BufferedReader(), -1.5
+15, 38746, -4.5, 1.0, -4.0, 2.0, 24, 0, new BufferedReader(), -1.5
+15, 38747, -4.5, 1.0, -4.0, 2.5, 24, 0, new BufferedReader(), -1.5
+15, 38748, -4.5, 1.0, -4.0, 3.0, 24, 0, new BufferedReader(), -1.5
+15, 38749, -4.5, 1.0, -4.0, 3.5, 24, 0, new BufferedReader(), -1.5
+15, 38750, -4.5, 1.0, -4.0, 4.0, 24, 0, new BufferedReader(), -1.5
+15, 38751, -4.5, 1.0, -4.0, 4.5, 24, 0, new BufferedReader(), -1.5
+15, 38752, -4.5, 1.0, -4.0, 5.0, 24, 0, new BufferedReader(), -1.5
+15, 38753, -4.5, 1.0, -3.5, 0.0, 24, 0, new BufferedReader(), -1.5
+15, 38754, -4.5, 1.0, -3.5, 0.5, 24, 0, new BufferedReader(), -1.5
+15, 38755, -4.5, 1.0, -3.5, 1.0, 24, 0, new BufferedReader(), -1.5
+15, 38756, -4.5, 1.0, -3.5, 1.5, 24, 0, new BufferedReader(), -1.5
+15, 38757, -4.5, 1.0, -3.5, 2.0, 24, 0, new BufferedReader(), -1.5
+15, 38758, -4.5, 1.0, -3.5, 2.5, 24, 0, new BufferedReader(), -1.5
+15, 38759, -4.5, 1.0, -3.5, 3.0, 24, 0, new BufferedReader(), -1.5
+15, 38760, -4.5, 1.0, -3.5, 3.5, 24, 0, new BufferedReader(), -1.5
+15, 38761, -4.5, 1.0, -3.5, 4.0, 24, 0, new BufferedReader(), -1.5
+15, 38762, -4.5, 1.0, -3.5, 4.5, 24, 0, new BufferedReader(), -1.5
+15, 38763, -4.5, 1.0, -3.5, 5.0, 24, 0, new BufferedReader(), -1.5
+15, 38764, -4.5, 1.0, -3.0, 0.0, 24, 0, new BufferedReader(), -1.5
+15, 38765, -4.5, 1.0, -3.0, 0.5, 24, 0, new BufferedReader(), -1.5
+15, 38766, -4.5, 1.0, -3.0, 1.0, 24, 0, new BufferedReader(), -1.5
+15, 38767, -4.5, 1.0, -3.0, 1.5, 24, 0, new BufferedReader(), -1.5
+15, 38768, -4.5, 1.0, -3.0, 2.0, 24, 0, new BufferedReader(), -1.5
+15, 38769, -4.5, 1.0, -3.0, 2.5, 24, 0, new BufferedReader(), -1.5
+15, 38770, -4.5, 1.0, -3.0, 3.0, 24, 0, new BufferedReader(), -1.5
+15, 38771, -4.5, 1.0, -3.0, 3.5, 24, 0, new BufferedReader(), -1.5
+15, 38772, -4.5, 1.0, -3.0, 4.0, 24, 0, new BufferedReader(), -1.5
+15, 38773, -4.5, 1.0, -3.0, 4.5, 24, 0, new BufferedReader(), -1.5
+15, 38774, -4.5, 1.0, -3.0, 5.0, 24, 0, new BufferedReader(), -1.5
+15, 38775, -4.5, 1.0, -2.5, 0.0, 24, 0, new BufferedReader(), -1.5
+15, 38776, -4.5, 1.0, -2.5, 0.5, 24, 0, new BufferedReader(), -1.5
+15, 38777, -4.5, 1.0, -2.5, 1.0, 24, 0, new BufferedReader(), -1.5
+15, 38778, -4.5, 1.0, -2.5, 1.5, 24, 0, new BufferedReader(), -1.5
+15, 38779, -4.5, 1.0, -2.5, 2.0, 24, 0, new BufferedReader(), -1.5
+15, 38780, -4.5, 1.0, -2.5, 2.5, 24, 0, new BufferedReader(), -1.5
+15, 38781, -4.5, 1.0, -2.5, 3.0, 24, 0, new BufferedReader(), -1.5
+15, 38782, -4.5, 1.0, -2.5, 3.5, 24, 0, new BufferedReader(), -1.5
+15, 38783, -4.5, 1.0, -2.5, 4.0, 24, 0, new BufferedReader(), -1.5
+15, 38784, -4.5, 1.0, -2.5, 4.5, 24, 0, new BufferedReader(), -1.5
+15, 38785, -4.5, 1.0, -2.5, 5.0, 24, 0, new BufferedReader(), -1.5
+15, 38786, -4.5, 1.0, -2.0, 0.0, 24, 0, new BufferedReader(), -1.5
+15, 38787, -4.5, 1.0, -2.0, 0.5, 24, 0, new BufferedReader(), -1.5
+15, 38788, -4.5, 1.0, -2.0, 1.0, 24, 0, new BufferedReader(), -1.5
+15, 38789, -4.5, 1.0, -2.0, 1.5, 24, 0, new BufferedReader(), -1.5
+15, 38790, -4.5, 1.0, -2.0, 2.0, 24, 0, new BufferedReader(), -1.5
+15, 38791, -4.5, 1.0, -2.0, 2.5, 24, 0, new BufferedReader(), -1.5
+15, 38792, -4.5, 1.0, -2.0, 3.0, 24, 0, new BufferedReader(), -1.5
+15, 38793, -4.5, 1.0, -2.0, 3.5, 24, 0, new BufferedReader(), -1.5
+15, 38794, -4.5, 1.0, -2.0, 4.0, 24, 0, new BufferedReader(), -1.5
+15, 38795, -4.5, 1.0, -2.0, 4.5, 24, 0, new BufferedReader(), -1.5
+15, 38796, -4.5, 1.0, -2.0, 5.0, 24, 0, new BufferedReader(), -1.5
+15, 38797, -4.5, 1.0, -1.5, 0.0, 24, 0, new BufferedReader(), -1.5
+15, 38798, -4.5, 1.0, -1.5, 0.5, 24, 0, new BufferedReader(), -1.5
+15, 38799, -4.5, 1.0, -1.5, 1.0, 24, 0, new BufferedReader(), -1.5
+15, 38800, -4.5, 1.0, -1.5, 1.5, 24, 0, new BufferedReader(), -1.5
+15, 38801, -4.5, 1.0, -1.5, 2.0, 24, 0, new BufferedReader(), -1.5
+15, 38802, -4.5, 1.0, -1.5, 2.5, 24, 0, new BufferedReader(), -1.5
+15, 38803, -4.5, 1.0, -1.5, 3.0, 24, 0, new BufferedReader(), -1.5
+15, 38804, -4.5, 1.0, -1.5, 3.5, 24, 0, new BufferedReader(), -1.5
+15, 38805, -4.5, 1.0, -1.5, 4.0, 24, 0, new BufferedReader(), -1.5
+15, 38806, -4.5, 1.0, -1.5, 4.5, 24, 0, new BufferedReader(), -1.5
+15, 38807, -4.5, 1.0, -1.5, 5.0, 24, 0, new BufferedReader(), -1.5
+15, 38808, -4.5, 1.0, -1.0, 0.0, 24, 0, new BufferedReader(), -1.5
+15, 38809, -4.5, 1.0, -1.0, 0.5, 24, 0, new BufferedReader(), -1.5
+15, 38810, -4.5, 1.0, -1.0, 1.0, 24, 0, new BufferedReader(), -1.5
+15, 38811, -4.5, 1.0, -1.0, 1.5, 24, 0, new BufferedReader(), -1.5
+15, 38812, -4.5, 1.0, -1.0, 2.0, 24, 0, new BufferedReader(), -1.5
+15, 38813, -4.5, 1.0, -1.0, 2.5, 24, 0, new BufferedReader(), -1.5
+15, 38814, -4.5, 1.0, -1.0, 3.0, 24, 0, new BufferedReader(), -1.5
+15, 38815, -4.5, 1.0, -1.0, 3.5, 24, 0, new BufferedReader(), -1.5
+15, 38816, -4.5, 1.0, -1.0, 4.0, 24, 0, new BufferedReader(), -1.5
+15, 38817, -4.5, 1.0, -1.0, 4.5, 24, 0, new BufferedReader(), -1.5
+15, 38818, -4.5, 1.0, -1.0, 5.0, 24, 0, new BufferedReader(), -1.5
+15, 38819, -4.5, 1.0, -0.5, 0.0, 24, 0, new BufferedReader(), -1.5
+15, 38820, -4.5, 1.0, -0.5, 0.5, 24, 0, new BufferedReader(), -1.5
+15, 38821, -4.5, 1.0, -0.5, 1.0, 24, 0, new BufferedReader(), -1.5
+15, 38822, -4.5, 1.0, -0.5, 1.5, 24, 0, new BufferedReader(), -1.5
+15, 38823, -4.5, 1.0, -0.5, 2.0, 24, 0, new BufferedReader(), -1.5
+15, 38824, -4.5, 1.0, -0.5, 2.5, 24, 0, new BufferedReader(), -1.5
+15, 38825, -4.5, 1.0, -0.5, 3.0, 24, 0, new BufferedReader(), -1.5
+15, 38826, -4.5, 1.0, -0.5, 3.5, 24, 0, new BufferedReader(), -1.5
+15, 38827, -4.5, 1.0, -0.5, 4.0, 24, 0, new BufferedReader(), -1.5
+15, 38828, -4.5, 1.0, -0.5, 4.5, 24, 0, new BufferedReader(), -1.5
+15, 38829, -4.5, 1.0, -0.5, 5.0, 24, 0, new BufferedReader(), -1.5
+15, 38830, -4.5, 1.0, 0.0, 0.0, 24, 0, new BufferedReader(), -1.5
+15, 38831, -4.5, 1.0, 0.0, 0.5, 24, 0, new BufferedReader(), -1.5
+15, 38832, -4.5, 1.0, 0.0, 1.0, 24, 0, new BufferedReader(), -1.5
+15, 38833, -4.5, 1.0, 0.0, 1.5, 24, 0, new BufferedReader(), -1.5
+15, 38834, -4.5, 1.0, 0.0, 2.0, 24, 0, new BufferedReader(), -1.5
+15, 38835, -4.5, 1.0, 0.0, 2.5, 24, 0, new BufferedReader(), -1.5
+15, 38836, -4.5, 1.0, 0.0, 3.0, 24, 0, new BufferedReader(), -1.5
+15, 38837, -4.5, 1.0, 0.0, 3.5, 24, 0, new BufferedReader(), -1.5
+15, 38838, -4.5, 1.0, 0.0, 4.0, 24, 0, new BufferedReader(), -1.5
+15, 38839, -4.5, 1.0, 0.0, 4.5, 24, 0, new BufferedReader(), -1.5
+15, 38840, -4.5, 1.0, 0.0, 5.0, 24, 0, new BufferedReader(), -1.5
+15, 38841, -4.0, 1.0, -5.0, 0.0, 24, 0, new BufferedReader(), -1.0
+15, 38842, -4.0, 1.0, -5.0, 0.5, 24, 0, new BufferedReader(), -1.0
+15, 38843, -4.0, 1.0, -5.0, 1.0, 24, 0, new BufferedReader(), -1.0
+15, 38844, -4.0, 1.0, -5.0, 1.5, 24, 0, new BufferedReader(), -1.0
+15, 38845, -4.0, 1.0, -5.0, 2.0, 24, 0, new BufferedReader(), -1.0
+15, 38846, -4.0, 1.0, -5.0, 2.5, 24, 0, new BufferedReader(), -1.0
+15, 38847, -4.0, 1.0, -5.0, 3.0, 24, 0, new BufferedReader(), -1.0
+15, 38848, -4.0, 1.0, -5.0, 3.5, 24, 0, new BufferedReader(), -1.0
+15, 38849, -4.0, 1.0, -5.0, 4.0, 24, 0, new BufferedReader(), -1.0
+15, 38850, -4.0, 1.0, -5.0, 4.5, 24, 0, new BufferedReader(), -1.0
+15, 38851, -4.0, 1.0, -5.0, 5.0, 24, 0, new BufferedReader(), -1.0
+15, 38852, -4.0, 1.0, -4.5, 0.0, 24, 0, new BufferedReader(), -1.0
+15, 38853, -4.0, 1.0, -4.5, 0.5, 24, 0, new BufferedReader(), -1.0
+15, 38854, -4.0, 1.0, -4.5, 1.0, 24, 0, new BufferedReader(), -1.0
+15, 38855, -4.0, 1.0, -4.5, 1.5, 24, 0, new BufferedReader(), -1.0
+15, 38856, -4.0, 1.0, -4.5, 2.0, 24, 0, new BufferedReader(), -1.0
+15, 38857, -4.0, 1.0, -4.5, 2.5, 24, 0, new BufferedReader(), -1.0
+15, 38858, -4.0, 1.0, -4.5, 3.0, 24, 0, new BufferedReader(), -1.0
+15, 38859, -4.0, 1.0, -4.5, 3.5, 24, 0, new BufferedReader(), -1.0
+15, 38860, -4.0, 1.0, -4.5, 4.0, 24, 0, new BufferedReader(), -1.0
+15, 38861, -4.0, 1.0, -4.5, 4.5, 24, 0, new BufferedReader(), -1.0
+15, 38862, -4.0, 1.0, -4.5, 5.0, 24, 0, new BufferedReader(), -1.0
+15, 38863, -4.0, 1.0, -4.0, 0.0, 24, 0, new BufferedReader(), -1.0
+15, 38864, -4.0, 1.0, -4.0, 0.5, 24, 0, new BufferedReader(), -1.0
+15, 38865, -4.0, 1.0, -4.0, 1.0, 24, 0, new BufferedReader(), -1.0
+15, 38866, -4.0, 1.0, -4.0, 1.5, 24, 0, new BufferedReader(), -1.0
+15, 38867, -4.0, 1.0, -4.0, 2.0, 24, 0, new BufferedReader(), -1.0
+15, 38868, -4.0, 1.0, -4.0, 2.5, 24, 0, new BufferedReader(), -1.0
+15, 38869, -4.0, 1.0, -4.0, 3.0, 24, 0, new BufferedReader(), -1.0
+15, 38870, -4.0, 1.0, -4.0, 3.5, 24, 0, new BufferedReader(), -1.0
+15, 38871, -4.0, 1.0, -4.0, 4.0, 24, 0, new BufferedReader(), -1.0
+15, 38872, -4.0, 1.0, -4.0, 4.5, 24, 0, new BufferedReader(), -1.0
+15, 38873, -4.0, 1.0, -4.0, 5.0, 24, 0, new BufferedReader(), -1.0
+15, 38874, -4.0, 1.0, -3.5, 0.0, 24, 0, new BufferedReader(), -1.0
+15, 38875, -4.0, 1.0, -3.5, 0.5, 24, 0, new BufferedReader(), -1.0
+15, 38876, -4.0, 1.0, -3.5, 1.0, 24, 0, new BufferedReader(), -1.0
+15, 38877, -4.0, 1.0, -3.5, 1.5, 24, 0, new BufferedReader(), -1.0
+15, 38878, -4.0, 1.0, -3.5, 2.0, 24, 0, new BufferedReader(), -1.0
+15, 38879, -4.0, 1.0, -3.5, 2.5, 24, 0, new BufferedReader(), -1.0
+15, 38880, -4.0, 1.0, -3.5, 3.0, 24, 0, new BufferedReader(), -1.0
+15, 38881, -4.0, 1.0, -3.5, 3.5, 24, 0, new BufferedReader(), -1.0
+15, 38882, -4.0, 1.0, -3.5, 4.0, 24, 0, new BufferedReader(), -1.0
+15, 38883, -4.0, 1.0, -3.5, 4.5, 24, 0, new BufferedReader(), -1.0
+15, 38884, -4.0, 1.0, -3.5, 5.0, 24, 0, new BufferedReader(), -1.0
+15, 38885, -4.0, 1.0, -3.0, 0.0, 24, 0, new BufferedReader(), -1.0
+15, 38886, -4.0, 1.0, -3.0, 0.5, 24, 0, new BufferedReader(), -1.0
+15, 38887, -4.0, 1.0, -3.0, 1.0, 24, 0, new BufferedReader(), -1.0
+15, 38888, -4.0, 1.0, -3.0, 1.5, 24, 0, new BufferedReader(), -1.0
+15, 38889, -4.0, 1.0, -3.0, 2.0, 24, 0, new BufferedReader(), -1.0
+15, 38890, -4.0, 1.0, -3.0, 2.5, 24, 0, new BufferedReader(), -1.0
+15, 38891, -4.0, 1.0, -3.0, 3.0, 24, 0, new BufferedReader(), -1.0
+15, 38892, -4.0, 1.0, -3.0, 3.5, 24, 0, new BufferedReader(), -1.0
+15, 38893, -4.0, 1.0, -3.0, 4.0, 24, 0, new BufferedReader(), -1.0
+15, 38894, -4.0, 1.0, -3.0, 4.5, 24, 0, new BufferedReader(), -1.0
+15, 38895, -4.0, 1.0, -3.0, 5.0, 24, 0, new BufferedReader(), -1.0
+15, 38896, -4.0, 1.0, -2.5, 0.0, 24, 0, new BufferedReader(), -1.0
+15, 38897, -4.0, 1.0, -2.5, 0.5, 24, 0, new BufferedReader(), -1.0
+15, 38898, -4.0, 1.0, -2.5, 1.0, 24, 0, new BufferedReader(), -1.0
+15, 38899, -4.0, 1.0, -2.5, 1.5, 24, 0, new BufferedReader(), -1.0
+15, 38900, -4.0, 1.0, -2.5, 2.0, 24, 0, new BufferedReader(), -1.0
+15, 38901, -4.0, 1.0, -2.5, 2.5, 24, 0, new BufferedReader(), -1.0
+15, 38902, -4.0, 1.0, -2.5, 3.0, 24, 0, new BufferedReader(), -1.0
+15, 38903, -4.0, 1.0, -2.5, 3.5, 24, 0, new BufferedReader(), -1.0
+15, 38904, -4.0, 1.0, -2.5, 4.0, 24, 0, new BufferedReader(), -1.0
+15, 38905, -4.0, 1.0, -2.5, 4.5, 24, 0, new BufferedReader(), -1.0
+15, 38906, -4.0, 1.0, -2.5, 5.0, 24, 0, new BufferedReader(), -1.0
+15, 38907, -4.0, 1.0, -2.0, 0.0, 24, 0, new BufferedReader(), -1.0
+15, 38908, -4.0, 1.0, -2.0, 0.5, 24, 0, new BufferedReader(), -1.0
+15, 38909, -4.0, 1.0, -2.0, 1.0, 24, 0, new BufferedReader(), -1.0
+15, 38910, -4.0, 1.0, -2.0, 1.5, 24, 0, new BufferedReader(), -1.0
+15, 38911, -4.0, 1.0, -2.0, 2.0, 24, 0, new BufferedReader(), -1.0
+15, 38912, -4.0, 1.0, -2.0, 2.5, 24, 0, new BufferedReader(), -1.0
+15, 38913, -4.0, 1.0, -2.0, 3.0, 24, 0, new BufferedReader(), -1.0
+15, 38914, -4.0, 1.0, -2.0, 3.5, 24, 0, new BufferedReader(), -1.0
+15, 38915, -4.0, 1.0, -2.0, 4.0, 24, 0, new BufferedReader(), -1.0
+15, 38916, -4.0, 1.0, -2.0, 4.5, 24, 0, new BufferedReader(), -1.0
+15, 38917, -4.0, 1.0, -2.0, 5.0, 24, 0, new BufferedReader(), -1.0
+15, 38918, -4.0, 1.0, -1.5, 0.0, 24, 0, new BufferedReader(), -1.0
+15, 38919, -4.0, 1.0, -1.5, 0.5, 24, 0, new BufferedReader(), -1.0
+15, 38920, -4.0, 1.0, -1.5, 1.0, 24, 0, new BufferedReader(), -1.0
+15, 38921, -4.0, 1.0, -1.5, 1.5, 24, 0, new BufferedReader(), -1.0
+15, 38922, -4.0, 1.0, -1.5, 2.0, 24, 0, new BufferedReader(), -1.0
+15, 38923, -4.0, 1.0, -1.5, 2.5, 24, 0, new BufferedReader(), -1.0
+15, 38924, -4.0, 1.0, -1.5, 3.0, 24, 0, new BufferedReader(), -1.0
+15, 38925, -4.0, 1.0, -1.5, 3.5, 24, 0, new BufferedReader(), -1.0
+15, 38926, -4.0, 1.0, -1.5, 4.0, 24, 0, new BufferedReader(), -1.0
+15, 38927, -4.0, 1.0, -1.5, 4.5, 24, 0, new BufferedReader(), -1.0
+15, 38928, -4.0, 1.0, -1.5, 5.0, 24, 0, new BufferedReader(), -1.0
+15, 38929, -4.0, 1.0, -1.0, 0.0, 24, 0, new BufferedReader(), -1.0
+15, 38930, -4.0, 1.0, -1.0, 0.5, 24, 0, new BufferedReader(), -1.0
+15, 38931, -4.0, 1.0, -1.0, 1.0, 24, 0, new BufferedReader(), -1.0
+15, 38932, -4.0, 1.0, -1.0, 1.5, 24, 0, new BufferedReader(), -1.0
+15, 38933, -4.0, 1.0, -1.0, 2.0, 24, 0, new BufferedReader(), -1.0
+15, 38934, -4.0, 1.0, -1.0, 2.5, 24, 0, new BufferedReader(), -1.0
+15, 38935, -4.0, 1.0, -1.0, 3.0, 24, 0, new BufferedReader(), -1.0
+15, 38936, -4.0, 1.0, -1.0, 3.5, 24, 0, new BufferedReader(), -1.0
+15, 38937, -4.0, 1.0, -1.0, 4.0, 24, 0, new BufferedReader(), -1.0
+15, 38938, -4.0, 1.0, -1.0, 4.5, 24, 0, new BufferedReader(), -1.0
+15, 38939, -4.0, 1.0, -1.0, 5.0, 24, 0, new BufferedReader(), -1.0
+15, 38940, -4.0, 1.0, -0.5, 0.0, 24, 0, new BufferedReader(), -1.0
+15, 38941, -4.0, 1.0, -0.5, 0.5, 24, 0, new BufferedReader(), -1.0
+15, 38942, -4.0, 1.0, -0.5, 1.0, 24, 0, new BufferedReader(), -1.0
+15, 38943, -4.0, 1.0, -0.5, 1.5, 24, 0, new BufferedReader(), -1.0
+15, 38944, -4.0, 1.0, -0.5, 2.0, 24, 0, new BufferedReader(), -1.0
+15, 38945, -4.0, 1.0, -0.5, 2.5, 24, 0, new BufferedReader(), -1.0
+15, 38946, -4.0, 1.0, -0.5, 3.0, 24, 0, new BufferedReader(), -1.0
+15, 38947, -4.0, 1.0, -0.5, 3.5, 24, 0, new BufferedReader(), -1.0
+15, 38948, -4.0, 1.0, -0.5, 4.0, 24, 0, new BufferedReader(), -1.0
+15, 38949, -4.0, 1.0, -0.5, 4.5, 24, 0, new BufferedReader(), -1.0
+15, 38950, -4.0, 1.0, -0.5, 5.0, 24, 0, new BufferedReader(), -1.0
+15, 38951, -4.0, 1.0, 0.0, 0.0, 24, 0, new BufferedReader(), -1.0
+15, 38952, -4.0, 1.0, 0.0, 0.5, 24, 0, new BufferedReader(), -1.0
+15, 38953, -4.0, 1.0, 0.0, 1.0, 24, 0, new BufferedReader(), -1.0
+15, 38954, -4.0, 1.0, 0.0, 1.5, 24, 0, new BufferedReader(), -1.0
+15, 38955, -4.0, 1.0, 0.0, 2.0, 24, 0, new BufferedReader(), -1.0
+15, 38956, -4.0, 1.0, 0.0, 2.5, 24, 0, new BufferedReader(), -1.0
+15, 38957, -4.0, 1.0, 0.0, 3.0, 24, 0, new BufferedReader(), -1.0
+15, 38958, -4.0, 1.0, 0.0, 3.5, 24, 0, new BufferedReader(), -1.0
+15, 38959, -4.0, 1.0, 0.0, 4.0, 24, 0, new BufferedReader(), -1.0
+15, 38960, -4.0, 1.0, 0.0, 4.5, 24, 0, new BufferedReader(), -1.0
+15, 38961, -4.0, 1.0, 0.0, 5.0, 24, 0, new BufferedReader(), -1.0
+15, 38962, -3.5, 1.0, -5.0, 0.0, 24, 0, new BufferedReader(), -0.5
+15, 38963, -3.5, 1.0, -5.0, 0.5, 24, 0, new BufferedReader(), -0.5
+15, 38964, -3.5, 1.0, -5.0, 1.0, 24, 0, new BufferedReader(), -0.5
+15, 38965, -3.5, 1.0, -5.0, 1.5, 24, 0, new BufferedReader(), -0.5
+15, 38966, -3.5, 1.0, -5.0, 2.0, 24, 0, new BufferedReader(), -0.5
+15, 38967, -3.5, 1.0, -5.0, 2.5, 24, 0, new BufferedReader(), -0.5
+15, 38968, -3.5, 1.0, -5.0, 3.0, 24, 0, new BufferedReader(), -0.5
+15, 38969, -3.5, 1.0, -5.0, 3.5, 24, 0, new BufferedReader(), -0.5
+15, 38970, -3.5, 1.0, -5.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 38971, -3.5, 1.0, -5.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 38972, -3.5, 1.0, -5.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 38973, -3.5, 1.0, -4.5, 0.0, 24, 0, new BufferedReader(), -0.5
+15, 38974, -3.5, 1.0, -4.5, 0.5, 24, 0, new BufferedReader(), -0.5
+15, 38975, -3.5, 1.0, -4.5, 1.0, 24, 0, new BufferedReader(), -0.5
+15, 38976, -3.5, 1.0, -4.5, 1.5, 24, 0, new BufferedReader(), -0.5
+15, 38977, -3.5, 1.0, -4.5, 2.0, 24, 0, new BufferedReader(), -0.5
+15, 38978, -3.5, 1.0, -4.5, 2.5, 24, 0, new BufferedReader(), -0.5
+15, 38979, -3.5, 1.0, -4.5, 3.0, 24, 0, new BufferedReader(), -0.5
+15, 38980, -3.5, 1.0, -4.5, 3.5, 24, 0, new BufferedReader(), -0.5
+15, 38981, -3.5, 1.0, -4.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 38982, -3.5, 1.0, -4.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 38983, -3.5, 1.0, -4.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 38984, -3.5, 1.0, -4.0, 0.0, 24, 0, new BufferedReader(), -0.5
+15, 38985, -3.5, 1.0, -4.0, 0.5, 24, 0, new BufferedReader(), -0.5
+15, 38986, -3.5, 1.0, -4.0, 1.0, 24, 0, new BufferedReader(), -0.5
+15, 38987, -3.5, 1.0, -4.0, 1.5, 24, 0, new BufferedReader(), -0.5
+15, 38988, -3.5, 1.0, -4.0, 2.0, 24, 0, new BufferedReader(), -0.5
+15, 38989, -3.5, 1.0, -4.0, 2.5, 24, 0, new BufferedReader(), -0.5
+15, 38990, -3.5, 1.0, -4.0, 3.0, 24, 0, new BufferedReader(), -0.5
+15, 38991, -3.5, 1.0, -4.0, 3.5, 24, 0, new BufferedReader(), -0.5
+15, 38992, -3.5, 1.0, -4.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 38993, -3.5, 1.0, -4.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 38994, -3.5, 1.0, -4.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 38995, -3.5, 1.0, -3.5, 0.0, 24, 0, new BufferedReader(), -0.5
+15, 38996, -3.5, 1.0, -3.5, 0.5, 24, 0, new BufferedReader(), -0.5
+15, 38997, -3.5, 1.0, -3.5, 1.0, 24, 0, new BufferedReader(), -0.5
+15, 38998, -3.5, 1.0, -3.5, 1.5, 24, 0, new BufferedReader(), -0.5
+15, 38999, -3.5, 1.0, -3.5, 2.0, 24, 0, new BufferedReader(), -0.5
+15, 39000, -3.5, 1.0, -3.5, 2.5, 24, 0, new BufferedReader(), -0.5
+15, 39001, -3.5, 1.0, -3.5, 3.0, 24, 0, new BufferedReader(), -0.5
+15, 39002, -3.5, 1.0, -3.5, 3.5, 24, 0, new BufferedReader(), -0.5
+15, 39003, -3.5, 1.0, -3.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39004, -3.5, 1.0, -3.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39005, -3.5, 1.0, -3.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39006, -3.5, 1.0, -3.0, 0.0, 24, 0, new BufferedReader(), -0.5
+15, 39007, -3.5, 1.0, -3.0, 0.5, 24, 0, new BufferedReader(), -0.5
+15, 39008, -3.5, 1.0, -3.0, 1.0, 24, 0, new BufferedReader(), -0.5
+15, 39009, -3.5, 1.0, -3.0, 1.5, 24, 0, new BufferedReader(), -0.5
+15, 39010, -3.5, 1.0, -3.0, 2.0, 24, 0, new BufferedReader(), -0.5
+15, 39011, -3.5, 1.0, -3.0, 2.5, 24, 0, new BufferedReader(), -0.5
+15, 39012, -3.5, 1.0, -3.0, 3.0, 24, 0, new BufferedReader(), -0.5
+15, 39013, -3.5, 1.0, -3.0, 3.5, 24, 0, new BufferedReader(), -0.5
+15, 39014, -3.5, 1.0, -3.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39015, -3.5, 1.0, -3.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39016, -3.5, 1.0, -3.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39017, -3.5, 1.0, -2.5, 0.0, 24, 0, new BufferedReader(), -0.5
+15, 39018, -3.5, 1.0, -2.5, 0.5, 24, 0, new BufferedReader(), -0.5
+15, 39019, -3.5, 1.0, -2.5, 1.0, 24, 0, new BufferedReader(), -0.5
+15, 39020, -3.5, 1.0, -2.5, 1.5, 24, 0, new BufferedReader(), -0.5
+15, 39021, -3.5, 1.0, -2.5, 2.0, 24, 0, new BufferedReader(), -0.5
+15, 39022, -3.5, 1.0, -2.5, 2.5, 24, 0, new BufferedReader(), -0.5
+15, 39023, -3.5, 1.0, -2.5, 3.0, 24, 0, new BufferedReader(), -0.5
+15, 39024, -3.5, 1.0, -2.5, 3.5, 24, 0, new BufferedReader(), -0.5
+15, 39025, -3.5, 1.0, -2.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39026, -3.5, 1.0, -2.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39027, -3.5, 1.0, -2.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39028, -3.5, 1.0, -2.0, 0.0, 24, 0, new BufferedReader(), -0.5
+15, 39029, -3.5, 1.0, -2.0, 0.5, 24, 0, new BufferedReader(), -0.5
+15, 39030, -3.5, 1.0, -2.0, 1.0, 24, 0, new BufferedReader(), -0.5
+15, 39031, -3.5, 1.0, -2.0, 1.5, 24, 0, new BufferedReader(), -0.5
+15, 39032, -3.5, 1.0, -2.0, 2.0, 24, 0, new BufferedReader(), -0.5
+15, 39033, -3.5, 1.0, -2.0, 2.5, 24, 0, new BufferedReader(), -0.5
+15, 39034, -3.5, 1.0, -2.0, 3.0, 24, 0, new BufferedReader(), -0.5
+15, 39035, -3.5, 1.0, -2.0, 3.5, 24, 0, new BufferedReader(), -0.5
+15, 39036, -3.5, 1.0, -2.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39037, -3.5, 1.0, -2.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39038, -3.5, 1.0, -2.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39039, -3.5, 1.0, -1.5, 0.0, 24, 0, new BufferedReader(), -0.5
+15, 39040, -3.5, 1.0, -1.5, 0.5, 24, 0, new BufferedReader(), -0.5
+15, 39041, -3.5, 1.0, -1.5, 1.0, 24, 0, new BufferedReader(), -0.5
+15, 39042, -3.5, 1.0, -1.5, 1.5, 24, 0, new BufferedReader(), -0.5
+15, 39043, -3.5, 1.0, -1.5, 2.0, 24, 0, new BufferedReader(), -0.5
+15, 39044, -3.5, 1.0, -1.5, 2.5, 24, 0, new BufferedReader(), -0.5
+15, 39045, -3.5, 1.0, -1.5, 3.0, 24, 0, new BufferedReader(), -0.5
+15, 39046, -3.5, 1.0, -1.5, 3.5, 24, 0, new BufferedReader(), -0.5
+15, 39047, -3.5, 1.0, -1.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39048, -3.5, 1.0, -1.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39049, -3.5, 1.0, -1.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39050, -3.5, 1.0, -1.0, 0.0, 24, 0, new BufferedReader(), -0.5
+15, 39051, -3.5, 1.0, -1.0, 0.5, 24, 0, new BufferedReader(), -0.5
+15, 39052, -3.5, 1.0, -1.0, 1.0, 24, 0, new BufferedReader(), -0.5
+15, 39053, -3.5, 1.0, -1.0, 1.5, 24, 0, new BufferedReader(), -0.5
+15, 39054, -3.5, 1.0, -1.0, 2.0, 24, 0, new BufferedReader(), -0.5
+15, 39055, -3.5, 1.0, -1.0, 2.5, 24, 0, new BufferedReader(), -0.5
+15, 39056, -3.5, 1.0, -1.0, 3.0, 24, 0, new BufferedReader(), -0.5
+15, 39057, -3.5, 1.0, -1.0, 3.5, 24, 0, new BufferedReader(), -0.5
+15, 39058, -3.5, 1.0, -1.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39059, -3.5, 1.0, -1.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39060, -3.5, 1.0, -1.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39061, -3.5, 1.0, -0.5, 0.0, 24, 0, new BufferedReader(), -0.5
+15, 39062, -3.5, 1.0, -0.5, 0.5, 24, 0, new BufferedReader(), -0.5
+15, 39063, -3.5, 1.0, -0.5, 1.0, 24, 0, new BufferedReader(), -0.5
+15, 39064, -3.5, 1.0, -0.5, 1.5, 24, 0, new BufferedReader(), -0.5
+15, 39065, -3.5, 1.0, -0.5, 2.0, 24, 0, new BufferedReader(), -0.5
+15, 39066, -3.5, 1.0, -0.5, 2.5, 24, 0, new BufferedReader(), -0.5
+15, 39067, -3.5, 1.0, -0.5, 3.0, 24, 0, new BufferedReader(), -0.5
+15, 39068, -3.5, 1.0, -0.5, 3.5, 24, 0, new BufferedReader(), -0.5
+15, 39069, -3.5, 1.0, -0.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39070, -3.5, 1.0, -0.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39071, -3.5, 1.0, -0.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39072, -3.5, 1.0, 0.0, 0.0, 24, 0, new BufferedReader(), -0.5
+15, 39073, -3.5, 1.0, 0.0, 0.5, 24, 0, new BufferedReader(), -0.5
+15, 39074, -3.5, 1.0, 0.0, 1.0, 24, 0, new BufferedReader(), -0.5
+15, 39075, -3.5, 1.0, 0.0, 1.5, 24, 0, new BufferedReader(), -0.5
+15, 39076, -3.5, 1.0, 0.0, 2.0, 24, 0, new BufferedReader(), -0.5
+15, 39077, -3.5, 1.0, 0.0, 2.5, 24, 0, new BufferedReader(), -0.5
+15, 39078, -3.5, 1.0, 0.0, 3.0, 24, 0, new BufferedReader(), -0.5
+15, 39079, -3.5, 1.0, 0.0, 3.5, 24, 0, new BufferedReader(), -0.5
+15, 39080, -3.5, 1.0, 0.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39081, -3.5, 1.0, 0.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39082, -3.5, 1.0, 0.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39083, -3.0, 1.0, -5.0, 0.0, 24, 0, new BufferedReader(), 0.0
+15, 39084, -3.0, 1.0, -5.0, 0.5, 24, 0, new BufferedReader(), 0.0
+15, 39085, -3.0, 1.0, -5.0, 1.0, 24, 0, new BufferedReader(), 0.0
+15, 39086, -3.0, 1.0, -5.0, 1.5, 24, 0, new BufferedReader(), 0.0
+15, 39087, -3.0, 1.0, -5.0, 2.0, 24, 0, new BufferedReader(), 0.0
+15, 39088, -3.0, 1.0, -5.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39089, -3.0, 1.0, -5.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39090, -3.0, 1.0, -5.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39091, -3.0, 1.0, -5.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39092, -3.0, 1.0, -5.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39093, -3.0, 1.0, -5.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39094, -3.0, 1.0, -4.5, 0.0, 24, 0, new BufferedReader(), 0.0
+15, 39095, -3.0, 1.0, -4.5, 0.5, 24, 0, new BufferedReader(), 0.0
+15, 39096, -3.0, 1.0, -4.5, 1.0, 24, 0, new BufferedReader(), 0.0
+15, 39097, -3.0, 1.0, -4.5, 1.5, 24, 0, new BufferedReader(), 0.0
+15, 39098, -3.0, 1.0, -4.5, 2.0, 24, 0, new BufferedReader(), 0.0
+15, 39099, -3.0, 1.0, -4.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39100, -3.0, 1.0, -4.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39101, -3.0, 1.0, -4.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39102, -3.0, 1.0, -4.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39103, -3.0, 1.0, -4.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39104, -3.0, 1.0, -4.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39105, -3.0, 1.0, -4.0, 0.0, 24, 0, new BufferedReader(), 0.0
+15, 39106, -3.0, 1.0, -4.0, 0.5, 24, 0, new BufferedReader(), 0.0
+15, 39107, -3.0, 1.0, -4.0, 1.0, 24, 0, new BufferedReader(), 0.0
+15, 39108, -3.0, 1.0, -4.0, 1.5, 24, 0, new BufferedReader(), 0.0
+15, 39109, -3.0, 1.0, -4.0, 2.0, 24, 0, new BufferedReader(), 0.0
+15, 39110, -3.0, 1.0, -4.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39111, -3.0, 1.0, -4.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39112, -3.0, 1.0, -4.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39113, -3.0, 1.0, -4.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39114, -3.0, 1.0, -4.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39115, -3.0, 1.0, -4.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39116, -3.0, 1.0, -3.5, 0.0, 24, 0, new BufferedReader(), 0.0
+15, 39117, -3.0, 1.0, -3.5, 0.5, 24, 0, new BufferedReader(), 0.0
+15, 39118, -3.0, 1.0, -3.5, 1.0, 24, 0, new BufferedReader(), 0.0
+15, 39119, -3.0, 1.0, -3.5, 1.5, 24, 0, new BufferedReader(), 0.0
+15, 39120, -3.0, 1.0, -3.5, 2.0, 24, 0, new BufferedReader(), 0.0
+15, 39121, -3.0, 1.0, -3.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39122, -3.0, 1.0, -3.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39123, -3.0, 1.0, -3.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39124, -3.0, 1.0, -3.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39125, -3.0, 1.0, -3.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39126, -3.0, 1.0, -3.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39127, -3.0, 1.0, -3.0, 0.0, 24, 0, new BufferedReader(), 0.0
+15, 39128, -3.0, 1.0, -3.0, 0.5, 24, 0, new BufferedReader(), 0.0
+15, 39129, -3.0, 1.0, -3.0, 1.0, 24, 0, new BufferedReader(), 0.0
+15, 39130, -3.0, 1.0, -3.0, 1.5, 24, 0, new BufferedReader(), 0.0
+15, 39131, -3.0, 1.0, -3.0, 2.0, 24, 0, new BufferedReader(), 0.0
+15, 39132, -3.0, 1.0, -3.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39133, -3.0, 1.0, -3.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39134, -3.0, 1.0, -3.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39135, -3.0, 1.0, -3.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39136, -3.0, 1.0, -3.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39137, -3.0, 1.0, -3.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39138, -3.0, 1.0, -2.5, 0.0, 24, 0, new BufferedReader(), 0.0
+15, 39139, -3.0, 1.0, -2.5, 0.5, 24, 0, new BufferedReader(), 0.0
+15, 39140, -3.0, 1.0, -2.5, 1.0, 24, 0, new BufferedReader(), 0.0
+15, 39141, -3.0, 1.0, -2.5, 1.5, 24, 0, new BufferedReader(), 0.0
+15, 39142, -3.0, 1.0, -2.5, 2.0, 24, 0, new BufferedReader(), 0.0
+15, 39143, -3.0, 1.0, -2.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39144, -3.0, 1.0, -2.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39145, -3.0, 1.0, -2.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39146, -3.0, 1.0, -2.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39147, -3.0, 1.0, -2.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39148, -3.0, 1.0, -2.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39149, -3.0, 1.0, -2.0, 0.0, 24, 0, new BufferedReader(), 0.0
+15, 39150, -3.0, 1.0, -2.0, 0.5, 24, 0, new BufferedReader(), 0.0
+15, 39151, -3.0, 1.0, -2.0, 1.0, 24, 0, new BufferedReader(), 0.0
+15, 39152, -3.0, 1.0, -2.0, 1.5, 24, 0, new BufferedReader(), 0.0
+15, 39153, -3.0, 1.0, -2.0, 2.0, 24, 0, new BufferedReader(), 0.0
+15, 39154, -3.0, 1.0, -2.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39155, -3.0, 1.0, -2.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39156, -3.0, 1.0, -2.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39157, -3.0, 1.0, -2.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39158, -3.0, 1.0, -2.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39159, -3.0, 1.0, -2.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39160, -3.0, 1.0, -1.5, 0.0, 24, 0, new BufferedReader(), 0.0
+15, 39161, -3.0, 1.0, -1.5, 0.5, 24, 0, new BufferedReader(), 0.0
+15, 39162, -3.0, 1.0, -1.5, 1.0, 24, 0, new BufferedReader(), 0.0
+15, 39163, -3.0, 1.0, -1.5, 1.5, 24, 0, new BufferedReader(), 0.0
+15, 39164, -3.0, 1.0, -1.5, 2.0, 24, 0, new BufferedReader(), 0.0
+15, 39165, -3.0, 1.0, -1.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39166, -3.0, 1.0, -1.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39167, -3.0, 1.0, -1.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39168, -3.0, 1.0, -1.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39169, -3.0, 1.0, -1.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39170, -3.0, 1.0, -1.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39171, -3.0, 1.0, -1.0, 0.0, 24, 0, new BufferedReader(), 0.0
+15, 39172, -3.0, 1.0, -1.0, 0.5, 24, 0, new BufferedReader(), 0.0
+15, 39173, -3.0, 1.0, -1.0, 1.0, 24, 0, new BufferedReader(), 0.0
+15, 39174, -3.0, 1.0, -1.0, 1.5, 24, 0, new BufferedReader(), 0.0
+15, 39175, -3.0, 1.0, -1.0, 2.0, 24, 0, new BufferedReader(), 0.0
+15, 39176, -3.0, 1.0, -1.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39177, -3.0, 1.0, -1.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39178, -3.0, 1.0, -1.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39179, -3.0, 1.0, -1.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39180, -3.0, 1.0, -1.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39181, -3.0, 1.0, -1.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39182, -3.0, 1.0, -0.5, 0.0, 24, 0, new BufferedReader(), 0.0
+15, 39183, -3.0, 1.0, -0.5, 0.5, 24, 0, new BufferedReader(), 0.0
+15, 39184, -3.0, 1.0, -0.5, 1.0, 24, 0, new BufferedReader(), 0.0
+15, 39185, -3.0, 1.0, -0.5, 1.5, 24, 0, new BufferedReader(), 0.0
+15, 39186, -3.0, 1.0, -0.5, 2.0, 24, 0, new BufferedReader(), 0.0
+15, 39187, -3.0, 1.0, -0.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39188, -3.0, 1.0, -0.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39189, -3.0, 1.0, -0.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39190, -3.0, 1.0, -0.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39191, -3.0, 1.0, -0.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39192, -3.0, 1.0, -0.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39193, -3.0, 1.0, 0.0, 0.0, 24, 0, new BufferedReader(), 0.0
+15, 39194, -3.0, 1.0, 0.0, 0.5, 24, 0, new BufferedReader(), 0.0
+15, 39195, -3.0, 1.0, 0.0, 1.0, 24, 0, new BufferedReader(), 0.0
+15, 39196, -3.0, 1.0, 0.0, 1.5, 24, 0, new BufferedReader(), 0.0
+15, 39197, -3.0, 1.0, 0.0, 2.0, 24, 0, new BufferedReader(), 0.0
+15, 39198, -3.0, 1.0, 0.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 0.5
+15, 39199, -3.0, 1.0, 0.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.0
+15, 39200, -3.0, 1.0, 0.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39201, -3.0, 1.0, 0.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39202, -3.0, 1.0, 0.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39203, -3.0, 1.0, 0.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39204, -2.5, 1.0, -5.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39205, -2.5, 1.0, -5.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39206, -2.5, 1.0, -5.0, 1.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39207, -2.5, 1.0, -5.0, 1.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39208, -2.5, 1.0, -5.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39209, -2.5, 1.0, -5.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39210, -2.5, 1.0, -5.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39211, -2.5, 1.0, -5.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39212, -2.5, 1.0, -5.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39213, -2.5, 1.0, -5.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39214, -2.5, 1.0, -5.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39215, -2.5, 1.0, -4.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39216, -2.5, 1.0, -4.5, 0.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39217, -2.5, 1.0, -4.5, 1.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39218, -2.5, 1.0, -4.5, 1.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39219, -2.5, 1.0, -4.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39220, -2.5, 1.0, -4.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39221, -2.5, 1.0, -4.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39222, -2.5, 1.0, -4.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39223, -2.5, 1.0, -4.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39224, -2.5, 1.0, -4.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39225, -2.5, 1.0, -4.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39226, -2.5, 1.0, -4.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39227, -2.5, 1.0, -4.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39228, -2.5, 1.0, -4.0, 1.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39229, -2.5, 1.0, -4.0, 1.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39230, -2.5, 1.0, -4.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39231, -2.5, 1.0, -4.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39232, -2.5, 1.0, -4.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39233, -2.5, 1.0, -4.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39234, -2.5, 1.0, -4.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39235, -2.5, 1.0, -4.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39236, -2.5, 1.0, -4.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39237, -2.5, 1.0, -3.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39238, -2.5, 1.0, -3.5, 0.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39239, -2.5, 1.0, -3.5, 1.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39240, -2.5, 1.0, -3.5, 1.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39241, -2.5, 1.0, -3.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39242, -2.5, 1.0, -3.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39243, -2.5, 1.0, -3.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39244, -2.5, 1.0, -3.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39245, -2.5, 1.0, -3.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39246, -2.5, 1.0, -3.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39247, -2.5, 1.0, -3.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39248, -2.5, 1.0, -3.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39249, -2.5, 1.0, -3.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39250, -2.5, 1.0, -3.0, 1.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39251, -2.5, 1.0, -3.0, 1.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39252, -2.5, 1.0, -3.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39253, -2.5, 1.0, -3.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39254, -2.5, 1.0, -3.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39255, -2.5, 1.0, -3.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39256, -2.5, 1.0, -3.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39257, -2.5, 1.0, -3.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39258, -2.5, 1.0, -3.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39259, -2.5, 1.0, -2.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39260, -2.5, 1.0, -2.5, 0.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39261, -2.5, 1.0, -2.5, 1.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39262, -2.5, 1.0, -2.5, 1.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39263, -2.5, 1.0, -2.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39264, -2.5, 1.0, -2.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39265, -2.5, 1.0, -2.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39266, -2.5, 1.0, -2.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39267, -2.5, 1.0, -2.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39268, -2.5, 1.0, -2.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39269, -2.5, 1.0, -2.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39270, -2.5, 1.0, -2.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39271, -2.5, 1.0, -2.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39272, -2.5, 1.0, -2.0, 1.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39273, -2.5, 1.0, -2.0, 1.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39274, -2.5, 1.0, -2.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39275, -2.5, 1.0, -2.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39276, -2.5, 1.0, -2.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39277, -2.5, 1.0, -2.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39278, -2.5, 1.0, -2.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39279, -2.5, 1.0, -2.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39280, -2.5, 1.0, -2.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39281, -2.5, 1.0, -1.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39282, -2.5, 1.0, -1.5, 0.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39283, -2.5, 1.0, -1.5, 1.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39284, -2.5, 1.0, -1.5, 1.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39285, -2.5, 1.0, -1.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39286, -2.5, 1.0, -1.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39287, -2.5, 1.0, -1.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39288, -2.5, 1.0, -1.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39289, -2.5, 1.0, -1.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39290, -2.5, 1.0, -1.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39291, -2.5, 1.0, -1.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39292, -2.5, 1.0, -1.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39293, -2.5, 1.0, -1.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39294, -2.5, 1.0, -1.0, 1.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39295, -2.5, 1.0, -1.0, 1.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39296, -2.5, 1.0, -1.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39297, -2.5, 1.0, -1.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39298, -2.5, 1.0, -1.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39299, -2.5, 1.0, -1.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39300, -2.5, 1.0, -1.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39301, -2.5, 1.0, -1.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39302, -2.5, 1.0, -1.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39303, -2.5, 1.0, -0.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39304, -2.5, 1.0, -0.5, 0.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39305, -2.5, 1.0, -0.5, 1.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39306, -2.5, 1.0, -0.5, 1.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39307, -2.5, 1.0, -0.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39308, -2.5, 1.0, -0.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39309, -2.5, 1.0, -0.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39310, -2.5, 1.0, -0.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39311, -2.5, 1.0, -0.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39312, -2.5, 1.0, -0.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39313, -2.5, 1.0, -0.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39314, -2.5, 1.0, 0.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39315, -2.5, 1.0, 0.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39316, -2.5, 1.0, 0.0, 1.0, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39317, -2.5, 1.0, 0.0, 1.5, 8, 0, new BufferedReader(new FileReader()), 1.0
+15, 39318, -2.5, 1.0, 0.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 1.5
+15, 39319, -2.5, 1.0, 0.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.0
+15, 39320, -2.5, 1.0, 0.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39321, -2.5, 1.0, 0.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39322, -2.5, 1.0, 0.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39323, -2.5, 1.0, 0.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39324, -2.5, 1.0, 0.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39325, -2.0, 1.0, -5.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39326, -2.0, 1.0, -5.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39327, -2.0, 1.0, -5.0, 1.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39328, -2.0, 1.0, -5.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39329, -2.0, 1.0, -5.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39330, -2.0, 1.0, -5.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39331, -2.0, 1.0, -5.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39332, -2.0, 1.0, -5.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39333, -2.0, 1.0, -5.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39334, -2.0, 1.0, -5.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39335, -2.0, 1.0, -5.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39336, -2.0, 1.0, -4.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39337, -2.0, 1.0, -4.5, 0.5, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39338, -2.0, 1.0, -4.5, 1.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39339, -2.0, 1.0, -4.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39340, -2.0, 1.0, -4.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39341, -2.0, 1.0, -4.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39342, -2.0, 1.0, -4.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39343, -2.0, 1.0, -4.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39344, -2.0, 1.0, -4.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39345, -2.0, 1.0, -4.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39346, -2.0, 1.0, -4.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39347, -2.0, 1.0, -4.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39348, -2.0, 1.0, -4.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39349, -2.0, 1.0, -4.0, 1.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39350, -2.0, 1.0, -4.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39351, -2.0, 1.0, -4.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39352, -2.0, 1.0, -4.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39353, -2.0, 1.0, -4.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39354, -2.0, 1.0, -4.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39355, -2.0, 1.0, -4.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39356, -2.0, 1.0, -4.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39357, -2.0, 1.0, -4.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39358, -2.0, 1.0, -3.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39359, -2.0, 1.0, -3.5, 0.5, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39360, -2.0, 1.0, -3.5, 1.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39361, -2.0, 1.0, -3.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39362, -2.0, 1.0, -3.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39363, -2.0, 1.0, -3.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39364, -2.0, 1.0, -3.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39365, -2.0, 1.0, -3.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39366, -2.0, 1.0, -3.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39367, -2.0, 1.0, -3.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39368, -2.0, 1.0, -3.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39369, -2.0, 1.0, -3.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39370, -2.0, 1.0, -3.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39371, -2.0, 1.0, -3.0, 1.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39372, -2.0, 1.0, -3.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39373, -2.0, 1.0, -3.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39374, -2.0, 1.0, -3.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39375, -2.0, 1.0, -3.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39376, -2.0, 1.0, -3.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39377, -2.0, 1.0, -3.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39378, -2.0, 1.0, -3.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39379, -2.0, 1.0, -3.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39380, -2.0, 1.0, -2.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39381, -2.0, 1.0, -2.5, 0.5, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39382, -2.0, 1.0, -2.5, 1.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39383, -2.0, 1.0, -2.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39384, -2.0, 1.0, -2.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39385, -2.0, 1.0, -2.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39386, -2.0, 1.0, -2.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39387, -2.0, 1.0, -2.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39388, -2.0, 1.0, -2.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39389, -2.0, 1.0, -2.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39390, -2.0, 1.0, -2.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39391, -2.0, 1.0, -2.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39392, -2.0, 1.0, -2.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39393, -2.0, 1.0, -2.0, 1.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39394, -2.0, 1.0, -2.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39395, -2.0, 1.0, -2.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39396, -2.0, 1.0, -2.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39397, -2.0, 1.0, -2.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39398, -2.0, 1.0, -2.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39399, -2.0, 1.0, -2.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39400, -2.0, 1.0, -2.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39401, -2.0, 1.0, -2.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39402, -2.0, 1.0, -1.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39403, -2.0, 1.0, -1.5, 0.5, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39404, -2.0, 1.0, -1.5, 1.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39405, -2.0, 1.0, -1.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39406, -2.0, 1.0, -1.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39407, -2.0, 1.0, -1.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39408, -2.0, 1.0, -1.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39409, -2.0, 1.0, -1.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39410, -2.0, 1.0, -1.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39411, -2.0, 1.0, -1.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39412, -2.0, 1.0, -1.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39413, -2.0, 1.0, -1.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39414, -2.0, 1.0, -1.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39415, -2.0, 1.0, -1.0, 1.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39416, -2.0, 1.0, -1.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39417, -2.0, 1.0, -1.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39418, -2.0, 1.0, -1.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39419, -2.0, 1.0, -1.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39420, -2.0, 1.0, -1.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39421, -2.0, 1.0, -1.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39422, -2.0, 1.0, -1.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39423, -2.0, 1.0, -1.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39424, -2.0, 1.0, -0.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39425, -2.0, 1.0, -0.5, 0.5, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39426, -2.0, 1.0, -0.5, 1.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39427, -2.0, 1.0, -0.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39428, -2.0, 1.0, -0.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39429, -2.0, 1.0, -0.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39430, -2.0, 1.0, -0.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39431, -2.0, 1.0, -0.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39432, -2.0, 1.0, -0.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39433, -2.0, 1.0, -0.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39434, -2.0, 1.0, -0.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39435, -2.0, 1.0, 0.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39436, -2.0, 1.0, 0.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39437, -2.0, 1.0, 0.0, 1.0, 8, 0, new BufferedReader(new FileReader()), 2.0
+15, 39438, -2.0, 1.0, 0.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 2.5
+15, 39439, -2.0, 1.0, 0.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.0
+15, 39440, -2.0, 1.0, 0.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39441, -2.0, 1.0, 0.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39442, -2.0, 1.0, 0.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39443, -2.0, 1.0, 0.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39444, -2.0, 1.0, 0.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39445, -2.0, 1.0, 0.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39446, -1.5, 1.0, -5.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39447, -1.5, 1.0, -5.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39448, -1.5, 1.0, -5.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39449, -1.5, 1.0, -5.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39450, -1.5, 1.0, -5.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39451, -1.5, 1.0, -5.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39452, -1.5, 1.0, -5.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39453, -1.5, 1.0, -5.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39454, -1.5, 1.0, -5.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39455, -1.5, 1.0, -5.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39456, -1.5, 1.0, -5.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39457, -1.5, 1.0, -4.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39458, -1.5, 1.0, -4.5, 0.5, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39459, -1.5, 1.0, -4.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39460, -1.5, 1.0, -4.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39461, -1.5, 1.0, -4.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39462, -1.5, 1.0, -4.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39463, -1.5, 1.0, -4.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39464, -1.5, 1.0, -4.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39465, -1.5, 1.0, -4.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39466, -1.5, 1.0, -4.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39467, -1.5, 1.0, -4.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39468, -1.5, 1.0, -4.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39469, -1.5, 1.0, -4.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39470, -1.5, 1.0, -4.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39471, -1.5, 1.0, -4.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39472, -1.5, 1.0, -4.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39473, -1.5, 1.0, -4.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39474, -1.5, 1.0, -4.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39475, -1.5, 1.0, -4.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39476, -1.5, 1.0, -4.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39477, -1.5, 1.0, -4.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39478, -1.5, 1.0, -4.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39479, -1.5, 1.0, -3.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39480, -1.5, 1.0, -3.5, 0.5, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39481, -1.5, 1.0, -3.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39482, -1.5, 1.0, -3.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39483, -1.5, 1.0, -3.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39484, -1.5, 1.0, -3.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39485, -1.5, 1.0, -3.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39486, -1.5, 1.0, -3.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39487, -1.5, 1.0, -3.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39488, -1.5, 1.0, -3.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39489, -1.5, 1.0, -3.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39490, -1.5, 1.0, -3.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39491, -1.5, 1.0, -3.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39492, -1.5, 1.0, -3.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39493, -1.5, 1.0, -3.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39494, -1.5, 1.0, -3.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39495, -1.5, 1.0, -3.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39496, -1.5, 1.0, -3.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39497, -1.5, 1.0, -3.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39498, -1.5, 1.0, -3.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39499, -1.5, 1.0, -3.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39500, -1.5, 1.0, -3.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39501, -1.5, 1.0, -2.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39502, -1.5, 1.0, -2.5, 0.5, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39503, -1.5, 1.0, -2.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39504, -1.5, 1.0, -2.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39505, -1.5, 1.0, -2.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39506, -1.5, 1.0, -2.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39507, -1.5, 1.0, -2.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39508, -1.5, 1.0, -2.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39509, -1.5, 1.0, -2.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39510, -1.5, 1.0, -2.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39511, -1.5, 1.0, -2.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39512, -1.5, 1.0, -2.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39513, -1.5, 1.0, -2.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39514, -1.5, 1.0, -2.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39515, -1.5, 1.0, -2.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39516, -1.5, 1.0, -2.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39517, -1.5, 1.0, -2.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39518, -1.5, 1.0, -2.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39519, -1.5, 1.0, -2.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39520, -1.5, 1.0, -2.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39521, -1.5, 1.0, -2.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39522, -1.5, 1.0, -2.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39523, -1.5, 1.0, -1.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39524, -1.5, 1.0, -1.5, 0.5, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39525, -1.5, 1.0, -1.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39526, -1.5, 1.0, -1.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39527, -1.5, 1.0, -1.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39528, -1.5, 1.0, -1.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39529, -1.5, 1.0, -1.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39530, -1.5, 1.0, -1.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39531, -1.5, 1.0, -1.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39532, -1.5, 1.0, -1.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39533, -1.5, 1.0, -1.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39534, -1.5, 1.0, -1.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39535, -1.5, 1.0, -1.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39536, -1.5, 1.0, -1.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39537, -1.5, 1.0, -1.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39538, -1.5, 1.0, -1.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39539, -1.5, 1.0, -1.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39540, -1.5, 1.0, -1.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39541, -1.5, 1.0, -1.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39542, -1.5, 1.0, -1.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39543, -1.5, 1.0, -1.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39544, -1.5, 1.0, -1.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39545, -1.5, 1.0, -0.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39546, -1.5, 1.0, -0.5, 0.5, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39547, -1.5, 1.0, -0.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39548, -1.5, 1.0, -0.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39549, -1.5, 1.0, -0.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39550, -1.5, 1.0, -0.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39551, -1.5, 1.0, -0.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39552, -1.5, 1.0, -0.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39553, -1.5, 1.0, -0.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39554, -1.5, 1.0, -0.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39555, -1.5, 1.0, -0.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39556, -1.5, 1.0, 0.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39557, -1.5, 1.0, 0.0, 0.5, 8, 0, new BufferedReader(new FileReader()), 3.0
+15, 39558, -1.5, 1.0, 0.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 3.5
+15, 39559, -1.5, 1.0, 0.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.0
+15, 39560, -1.5, 1.0, 0.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39561, -1.5, 1.0, 0.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39562, -1.5, 1.0, 0.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39563, -1.5, 1.0, 0.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39564, -1.5, 1.0, 0.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39565, -1.5, 1.0, 0.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39566, -1.5, 1.0, 0.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39567, -1.0, 1.0, -5.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 4.0
+15, 39568, -1.0, 1.0, -5.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39569, -1.0, 1.0, -5.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39570, -1.0, 1.0, -5.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39571, -1.0, 1.0, -5.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39572, -1.0, 1.0, -5.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39573, -1.0, 1.0, -5.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39574, -1.0, 1.0, -5.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39575, -1.0, 1.0, -5.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39576, -1.0, 1.0, -5.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39577, -1.0, 1.0, -5.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39578, -1.0, 1.0, -4.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 4.0
+15, 39579, -1.0, 1.0, -4.5, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39580, -1.0, 1.0, -4.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39581, -1.0, 1.0, -4.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39582, -1.0, 1.0, -4.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39583, -1.0, 1.0, -4.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39584, -1.0, 1.0, -4.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39585, -1.0, 1.0, -4.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39586, -1.0, 1.0, -4.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39587, -1.0, 1.0, -4.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39588, -1.0, 1.0, -4.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39589, -1.0, 1.0, -4.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 4.0
+15, 39590, -1.0, 1.0, -4.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39591, -1.0, 1.0, -4.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39592, -1.0, 1.0, -4.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39593, -1.0, 1.0, -4.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39594, -1.0, 1.0, -4.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39595, -1.0, 1.0, -4.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39596, -1.0, 1.0, -4.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39597, -1.0, 1.0, -4.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39598, -1.0, 1.0, -4.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39599, -1.0, 1.0, -4.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39600, -1.0, 1.0, -3.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 4.0
+15, 39601, -1.0, 1.0, -3.5, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39602, -1.0, 1.0, -3.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39603, -1.0, 1.0, -3.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39604, -1.0, 1.0, -3.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39605, -1.0, 1.0, -3.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39606, -1.0, 1.0, -3.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39607, -1.0, 1.0, -3.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39608, -1.0, 1.0, -3.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39609, -1.0, 1.0, -3.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39610, -1.0, 1.0, -3.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39611, -1.0, 1.0, -3.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 4.0
+15, 39612, -1.0, 1.0, -3.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39613, -1.0, 1.0, -3.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39614, -1.0, 1.0, -3.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39615, -1.0, 1.0, -3.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39616, -1.0, 1.0, -3.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39617, -1.0, 1.0, -3.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39618, -1.0, 1.0, -3.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39619, -1.0, 1.0, -3.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39620, -1.0, 1.0, -3.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39621, -1.0, 1.0, -3.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39622, -1.0, 1.0, -2.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 4.0
+15, 39623, -1.0, 1.0, -2.5, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39624, -1.0, 1.0, -2.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39625, -1.0, 1.0, -2.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39626, -1.0, 1.0, -2.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39627, -1.0, 1.0, -2.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39628, -1.0, 1.0, -2.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39629, -1.0, 1.0, -2.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39630, -1.0, 1.0, -2.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39631, -1.0, 1.0, -2.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39632, -1.0, 1.0, -2.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39633, -1.0, 1.0, -2.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 4.0
+15, 39634, -1.0, 1.0, -2.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39635, -1.0, 1.0, -2.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39636, -1.0, 1.0, -2.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39637, -1.0, 1.0, -2.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39638, -1.0, 1.0, -2.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39639, -1.0, 1.0, -2.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39640, -1.0, 1.0, -2.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39641, -1.0, 1.0, -2.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39642, -1.0, 1.0, -2.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39643, -1.0, 1.0, -2.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39644, -1.0, 1.0, -1.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 4.0
+15, 39645, -1.0, 1.0, -1.5, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39646, -1.0, 1.0, -1.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39647, -1.0, 1.0, -1.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39648, -1.0, 1.0, -1.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39649, -1.0, 1.0, -1.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39650, -1.0, 1.0, -1.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39651, -1.0, 1.0, -1.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39652, -1.0, 1.0, -1.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39653, -1.0, 1.0, -1.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39654, -1.0, 1.0, -1.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39655, -1.0, 1.0, -1.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 4.0
+15, 39656, -1.0, 1.0, -1.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39657, -1.0, 1.0, -1.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39658, -1.0, 1.0, -1.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39659, -1.0, 1.0, -1.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39660, -1.0, 1.0, -1.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39661, -1.0, 1.0, -1.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39662, -1.0, 1.0, -1.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39663, -1.0, 1.0, -1.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39664, -1.0, 1.0, -1.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39665, -1.0, 1.0, -1.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39666, -1.0, 1.0, -0.5, 0.0, 8, 0, new BufferedReader(new FileReader()), 4.0
+15, 39667, -1.0, 1.0, -0.5, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39668, -1.0, 1.0, -0.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39669, -1.0, 1.0, -0.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39670, -1.0, 1.0, -0.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39671, -1.0, 1.0, -0.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39672, -1.0, 1.0, -0.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39673, -1.0, 1.0, -0.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39674, -1.0, 1.0, -0.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39675, -1.0, 1.0, -0.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39676, -1.0, 1.0, -0.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39677, -1.0, 1.0, 0.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 4.0
+15, 39678, -1.0, 1.0, 0.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 4.5
+15, 39679, -1.0, 1.0, 0.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.0
+15, 39680, -1.0, 1.0, 0.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39681, -1.0, 1.0, 0.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39682, -1.0, 1.0, 0.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39683, -1.0, 1.0, 0.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39684, -1.0, 1.0, 0.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39685, -1.0, 1.0, 0.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39686, -1.0, 1.0, 0.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39687, -1.0, 1.0, 0.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39688, -0.5, 1.0, -5.0, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39689, -0.5, 1.0, -5.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39690, -0.5, 1.0, -5.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39691, -0.5, 1.0, -5.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39692, -0.5, 1.0, -5.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39693, -0.5, 1.0, -5.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39694, -0.5, 1.0, -5.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39695, -0.5, 1.0, -5.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39696, -0.5, 1.0, -5.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39697, -0.5, 1.0, -5.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39698, -0.5, 1.0, -5.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39699, -0.5, 1.0, -4.5, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39700, -0.5, 1.0, -4.5, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39701, -0.5, 1.0, -4.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39702, -0.5, 1.0, -4.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39703, -0.5, 1.0, -4.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39704, -0.5, 1.0, -4.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39705, -0.5, 1.0, -4.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39706, -0.5, 1.0, -4.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39707, -0.5, 1.0, -4.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39708, -0.5, 1.0, -4.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39709, -0.5, 1.0, -4.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39710, -0.5, 1.0, -4.0, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39711, -0.5, 1.0, -4.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39712, -0.5, 1.0, -4.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39713, -0.5, 1.0, -4.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39714, -0.5, 1.0, -4.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39715, -0.5, 1.0, -4.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39716, -0.5, 1.0, -4.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39717, -0.5, 1.0, -4.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39718, -0.5, 1.0, -4.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39719, -0.5, 1.0, -4.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39720, -0.5, 1.0, -4.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39721, -0.5, 1.0, -3.5, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39722, -0.5, 1.0, -3.5, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39723, -0.5, 1.0, -3.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39724, -0.5, 1.0, -3.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39725, -0.5, 1.0, -3.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39726, -0.5, 1.0, -3.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39727, -0.5, 1.0, -3.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39728, -0.5, 1.0, -3.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39729, -0.5, 1.0, -3.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39730, -0.5, 1.0, -3.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39731, -0.5, 1.0, -3.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39732, -0.5, 1.0, -3.0, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39733, -0.5, 1.0, -3.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39734, -0.5, 1.0, -3.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39735, -0.5, 1.0, -3.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39736, -0.5, 1.0, -3.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39737, -0.5, 1.0, -3.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39738, -0.5, 1.0, -3.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39739, -0.5, 1.0, -3.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39740, -0.5, 1.0, -3.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39741, -0.5, 1.0, -3.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39742, -0.5, 1.0, -3.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39743, -0.5, 1.0, -2.5, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39744, -0.5, 1.0, -2.5, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39745, -0.5, 1.0, -2.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39746, -0.5, 1.0, -2.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39747, -0.5, 1.0, -2.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39748, -0.5, 1.0, -2.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39749, -0.5, 1.0, -2.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39750, -0.5, 1.0, -2.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39751, -0.5, 1.0, -2.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39752, -0.5, 1.0, -2.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39753, -0.5, 1.0, -2.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39754, -0.5, 1.0, -2.0, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39755, -0.5, 1.0, -2.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39756, -0.5, 1.0, -2.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39757, -0.5, 1.0, -2.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39758, -0.5, 1.0, -2.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39759, -0.5, 1.0, -2.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39760, -0.5, 1.0, -2.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39761, -0.5, 1.0, -2.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39762, -0.5, 1.0, -2.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39763, -0.5, 1.0, -2.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39764, -0.5, 1.0, -2.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39765, -0.5, 1.0, -1.5, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39766, -0.5, 1.0, -1.5, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39767, -0.5, 1.0, -1.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39768, -0.5, 1.0, -1.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39769, -0.5, 1.0, -1.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39770, -0.5, 1.0, -1.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39771, -0.5, 1.0, -1.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39772, -0.5, 1.0, -1.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39773, -0.5, 1.0, -1.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39774, -0.5, 1.0, -1.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39775, -0.5, 1.0, -1.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39776, -0.5, 1.0, -1.0, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39777, -0.5, 1.0, -1.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39778, -0.5, 1.0, -1.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39779, -0.5, 1.0, -1.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39780, -0.5, 1.0, -1.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39781, -0.5, 1.0, -1.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39782, -0.5, 1.0, -1.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39783, -0.5, 1.0, -1.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39784, -0.5, 1.0, -1.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39785, -0.5, 1.0, -1.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39786, -0.5, 1.0, -1.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39787, -0.5, 1.0, -0.5, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 5.5
+15, 39788, -0.5, 1.0, -0.5, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39789, -0.5, 1.0, -0.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39790, -0.5, 1.0, -0.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39791, -0.5, 1.0, -0.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39792, -0.5, 1.0, -0.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39793, -0.5, 1.0, -0.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39794, -0.5, 1.0, -0.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39795, -0.5, 1.0, -0.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39796, -0.5, 1.0, -0.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39797, -0.5, 1.0, -0.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39798, -0.5, 1.0, 0.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 5.0
+15, 39799, -0.5, 1.0, 0.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 6.0
+15, 39800, -0.5, 1.0, 0.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 6.5
+15, 39801, -0.5, 1.0, 0.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39802, -0.5, 1.0, 0.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39803, -0.5, 1.0, 0.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39804, -0.5, 1.0, 0.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39805, -0.5, 1.0, 0.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39806, -0.5, 1.0, 0.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39807, -0.5, 1.0, 0.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39808, -0.5, 1.0, 0.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39809, 0.0, 1.0, -5.0, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39810, 0.0, 1.0, -5.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39811, 0.0, 1.0, -5.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39812, 0.0, 1.0, -5.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39813, 0.0, 1.0, -5.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39814, 0.0, 1.0, -5.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39815, 0.0, 1.0, -5.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39816, 0.0, 1.0, -5.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39817, 0.0, 1.0, -5.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 11.0
+15, 39818, 0.0, 1.0, -5.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 11.5
+15, 39819, 0.0, 1.0, -5.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 12.0
+15, 39820, 0.0, 1.0, -4.5, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39821, 0.0, 1.0, -4.5, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39822, 0.0, 1.0, -4.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39823, 0.0, 1.0, -4.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39824, 0.0, 1.0, -4.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39825, 0.0, 1.0, -4.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39826, 0.0, 1.0, -4.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39827, 0.0, 1.0, -4.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39828, 0.0, 1.0, -4.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 11.0
+15, 39829, 0.0, 1.0, -4.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 11.5
+15, 39830, 0.0, 1.0, -4.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 12.0
+15, 39831, 0.0, 1.0, -4.0, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39832, 0.0, 1.0, -4.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39833, 0.0, 1.0, -4.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39834, 0.0, 1.0, -4.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39835, 0.0, 1.0, -4.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39836, 0.0, 1.0, -4.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39837, 0.0, 1.0, -4.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39838, 0.0, 1.0, -4.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39839, 0.0, 1.0, -4.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 11.0
+15, 39840, 0.0, 1.0, -4.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 11.5
+15, 39841, 0.0, 1.0, -4.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 12.0
+15, 39842, 0.0, 1.0, -3.5, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39843, 0.0, 1.0, -3.5, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39844, 0.0, 1.0, -3.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39845, 0.0, 1.0, -3.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39846, 0.0, 1.0, -3.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39847, 0.0, 1.0, -3.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39848, 0.0, 1.0, -3.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39849, 0.0, 1.0, -3.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39850, 0.0, 1.0, -3.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 11.0
+15, 39851, 0.0, 1.0, -3.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 11.5
+15, 39852, 0.0, 1.0, -3.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 12.0
+15, 39853, 0.0, 1.0, -3.0, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39854, 0.0, 1.0, -3.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39855, 0.0, 1.0, -3.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39856, 0.0, 1.0, -3.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39857, 0.0, 1.0, -3.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39858, 0.0, 1.0, -3.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39859, 0.0, 1.0, -3.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39860, 0.0, 1.0, -3.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39861, 0.0, 1.0, -3.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 11.0
+15, 39862, 0.0, 1.0, -3.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 11.5
+15, 39863, 0.0, 1.0, -3.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 12.0
+15, 39864, 0.0, 1.0, -2.5, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39865, 0.0, 1.0, -2.5, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39866, 0.0, 1.0, -2.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39867, 0.0, 1.0, -2.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39868, 0.0, 1.0, -2.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39869, 0.0, 1.0, -2.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39870, 0.0, 1.0, -2.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39871, 0.0, 1.0, -2.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39872, 0.0, 1.0, -2.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 11.0
+15, 39873, 0.0, 1.0, -2.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 11.5
+15, 39874, 0.0, 1.0, -2.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 12.0
+15, 39875, 0.0, 1.0, -2.0, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39876, 0.0, 1.0, -2.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39877, 0.0, 1.0, -2.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39878, 0.0, 1.0, -2.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39879, 0.0, 1.0, -2.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39880, 0.0, 1.0, -2.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39881, 0.0, 1.0, -2.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39882, 0.0, 1.0, -2.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39883, 0.0, 1.0, -2.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 11.0
+15, 39884, 0.0, 1.0, -2.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 11.5
+15, 39885, 0.0, 1.0, -2.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 12.0
+15, 39886, 0.0, 1.0, -1.5, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39887, 0.0, 1.0, -1.5, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39888, 0.0, 1.0, -1.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39889, 0.0, 1.0, -1.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39890, 0.0, 1.0, -1.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39891, 0.0, 1.0, -1.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39892, 0.0, 1.0, -1.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39893, 0.0, 1.0, -1.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39894, 0.0, 1.0, -1.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 11.0
+15, 39895, 0.0, 1.0, -1.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 11.5
+15, 39896, 0.0, 1.0, -1.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 12.0
+15, 39897, 0.0, 1.0, -1.0, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39898, 0.0, 1.0, -1.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39899, 0.0, 1.0, -1.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39900, 0.0, 1.0, -1.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39901, 0.0, 1.0, -1.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39902, 0.0, 1.0, -1.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39903, 0.0, 1.0, -1.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39904, 0.0, 1.0, -1.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39905, 0.0, 1.0, -1.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 11.0
+15, 39906, 0.0, 1.0, -1.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 11.5
+15, 39907, 0.0, 1.0, -1.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 12.0
+15, 39908, 0.0, 1.0, -0.5, 0.0, 0, 0, new BufferedReader(new FileReader(filename)), 7.0
+15, 39909, 0.0, 1.0, -0.5, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39910, 0.0, 1.0, -0.5, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39911, 0.0, 1.0, -0.5, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39912, 0.0, 1.0, -0.5, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39913, 0.0, 1.0, -0.5, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39914, 0.0, 1.0, -0.5, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39915, 0.0, 1.0, -0.5, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39916, 0.0, 1.0, -0.5, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 11.0
+15, 39917, 0.0, 1.0, -0.5, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 11.5
+15, 39918, 0.0, 1.0, -0.5, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 12.0
+15, 39919, 0.0, 1.0, 0.0, 0.0, 8, 0, new BufferedReader(new FileReader()), 6.0
+15, 39920, 0.0, 1.0, 0.0, 0.5, 0, 0, new BufferedReader(new FileReader(filename)), 7.5
+15, 39921, 0.0, 1.0, 0.0, 1.0, 0, 0, new BufferedReader(new FileReader(filename)), 8.0
+15, 39922, 0.0, 1.0, 0.0, 1.5, 0, 0, new BufferedReader(new FileReader(filename)), 8.5
+15, 39923, 0.0, 1.0, 0.0, 2.0, 0, 0, new BufferedReader(new FileReader(filename)), 9.0
+15, 39924, 0.0, 1.0, 0.0, 2.5, 0, 0, new BufferedReader(new FileReader(filename)), 9.5
+15, 39925, 0.0, 1.0, 0.0, 3.0, 0, 0, new BufferedReader(new FileReader(filename)), 10.0
+15, 39926, 0.0, 1.0, 0.0, 3.5, 0, 0, new BufferedReader(new FileReader(filename)), 10.5
+15, 39927, 0.0, 1.0, 0.0, 4.0, 0, 0, new BufferedReader(new FileReader(filename)), 11.0
+15, 39928, 0.0, 1.0, 0.0, 4.5, 0, 0, new BufferedReader(new FileReader(filename)), 11.5
+15, 39929, 0.0, 1.0, 0.0, 5.0, 0, 0, new BufferedReader(new FileReader(filename)), 12.0
