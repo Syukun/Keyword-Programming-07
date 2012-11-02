@@ -1,6 +1,6 @@
 package plugin.views;
 
-import experiment.LocalSearch2_;
+import experiment.LocalSearch2;
 import experiment.LocalSearch2Job;
 import experiment.Result;
 import gridSearch.GridSearchJob;
@@ -567,7 +567,7 @@ public class TestSiteView extends org.eclipse.ui.part.ViewPart{
 					return;
 				}
 				
-				LocalSearch2_ ls = new LocalSearch2_(list, false);
+				LocalSearch2 ls = new LocalSearch2(list, false);
 				
 				IPreferenceStore store = Activator.getDefault().getPreferenceStore();
 				
