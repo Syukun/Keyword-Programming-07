@@ -549,11 +549,13 @@ public class KeywordProgramming {
 //			System.out.println("aaa");
 //		}
 		
-		//親クラスが"this"かつ、非staticの場合は、レシーバ無しでも起動できるようにする。
-//		boolean this_flg = false;
-//		if(f.getParentClass().equals("this") && f.isStatic() == false){
-//			this_flg = true;
-//		}
+		/*
+		 * 親クラスが"this"かつ、非staticの場合は、レシーバ無しでも起動できるようにする。
+		 */
+		boolean this_flg = false;
+		if(f.getParentClass().equals("this") && f.isStatic() == false){
+			this_flg = true;
+		}
 			
 		FunctionTree best_tree = new FunctionTree(f, input_keywords, numOfSameWords);//RootのみのTree
 		ExplanationVector e_cumulative = new ExplanationVector(best_tree.e_vec);//best_treeのe_vecをコピーしてnew
@@ -565,9 +567,11 @@ public class KeywordProgramming {
 		else if(h_max == 0)
 			return null;	//関数に引数はあるが、高さが0のとき、nullを返す
 		
-		//this_flg=trueのときは、高さ0、引数レシーバのみのときがある。
-//		if(this_flg == true && f.getParameters().length == 1)
-//			return best_tree;
+		/*
+		 * this_flg=trueのときは、高さ0、引数レシーバのみのときがある。
+		 */
+		if(this_flg == true && f.getParameters().length == 1)
+			return best_tree;
 		
 		for(String param: f.getParameters()){//引数の順番通りにループする
 			//e_best = (-∞, 0, 0, 0, ...) 

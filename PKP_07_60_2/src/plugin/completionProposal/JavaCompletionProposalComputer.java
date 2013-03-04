@@ -89,86 +89,91 @@ public class JavaCompletionProposalComputer implements
 			return proposalList;
 		}
 
-		/*
-		 * offset位置から、入力キーワードと返り値の型と、周辺の型(Type)と、関数(Function)を取得するメソッド 
-		 */
-		AstLocalCode.getLocalInfomation(source, offset, 0, false, null, null, null);
-		
-		String keywords = AstLocalCode.getKeywords();
-		String className = AstLocalCode.getClassName();
-		String desiredReturnType = AstLocalCode.getDesiredReturnType();
-    	String location = AstLocalCode.getLocation();
-		int keyword_head_offset = AstLocalCode.getKeywordHeadOffset();
-		int replacement_length = AstLocalCode.getReplacementLength();
-		//現在エディタ内に存在する有効なTypeを入れるリスト
-    	List<String> classesInActiveEditor = new ArrayList<String>(AstLocalCode.getClasses());
-    	//現在エディタ内に存在する有効なFunctionを入れるリスト
-    	List<String> functionsInActiveEditor = new ArrayList<String>(AstLocalCode.getFunctions());
-    	
-		//出力の計算
-		FunctionTree[] outputs = KeywordProgramming.execute(keywords, desiredReturnType, classesInActiveEditor, functionsInActiveEditor, KpRunningState.CODE_COMPLETION);
-		
-		AstLocalCode.clear();//使った後はクリアする。
-		
-		//保存する履歴のための出力候補群のリスト
-		List<OutputCandidateLog> outputLogList = new ArrayList<OutputCandidateLog>();
-		
-		/*
-		 * 出力候補群の生成。
-		 * 
-		 * １つ１つの候補は
-		 * MyCompletionProposal
-		 * である。
-		 */
-		if(outputs != null)
-			for(int i = 0; i < outputs.length ; i++){
-				if(outputs[i] != null){
-					String out = outputs[i].toCompleteMethodString();
-					MyCompletionProposal mcp = new MyCompletionProposal(out, keyword_head_offset, replacement_length, out.length(), keywords, desiredReturnType, i, outputs[i]);
-					//リストに追加
-					proposalList.add(mcp);
-					outputLogList.add(new OutputCandidateLog(outputs[i]));
+		try{
+			/*
+			 * offset位置から、入力キーワードと返り値の型と、周辺の型(Type)と、関数(Function)を取得するメソッド 
+			 */
+			AstLocalCode.getLocalInfomation(source, offset, 0, false, null, null, null);
+			
+			String keywords = AstLocalCode.getKeywords();
+			String className = AstLocalCode.getClassName();
+			String desiredReturnType = AstLocalCode.getDesiredReturnType();
+	    	String location = AstLocalCode.getLocation();
+			int keyword_head_offset = AstLocalCode.getKeywordHeadOffset();
+			int replacement_length = AstLocalCode.getReplacementLength();
+			//現在エディタ内に存在する有効なTypeを入れるリスト
+	    	List<String> classesInActiveEditor = new ArrayList<String>(AstLocalCode.getClasses());
+	    	//現在エディタ内に存在する有効なFunctionを入れるリスト
+	    	List<String> functionsInActiveEditor = new ArrayList<String>(AstLocalCode.getFunctions());
+	    	
+			//出力の計算
+			FunctionTree[] outputs = KeywordProgramming.execute(keywords, desiredReturnType, classesInActiveEditor, functionsInActiveEditor, KpRunningState.CODE_COMPLETION);
+			
+			AstLocalCode.clear();//使った後はクリアする。
+			
+			//保存する履歴のための出力候補群のリスト
+			List<OutputCandidateLog> outputLogList = new ArrayList<OutputCandidateLog>();
+			
+			/*
+			 * 出力候補群の生成。
+			 * 
+			 * １つ１つの候補は
+			 * MyCompletionProposal
+			 * である。
+			 */
+			if(outputs != null)
+				for(int i = 0; i < outputs.length ; i++){
+					if(outputs[i] != null){
+						String out = outputs[i].toCompleteMethodString();
+						MyCompletionProposal mcp = new MyCompletionProposal(out, keyword_head_offset, replacement_length, out.length(), keywords, desiredReturnType, i, outputs[i]);
+						//リストに追加
+						proposalList.add(mcp);
+						outputLogList.add(new OutputCandidateLog(outputs[i]));
+					}
 				}
-			}
-		
-		/*
-		 * あとで選択履歴を保存するために、
-		 * ソースコード状況を保持しておく。 
-		 * 
-		 * 選択テキストとテキスト長は、
-		 * 候補が選択されてから入力する。
-		 */
-		TestSite site = new TestSite(className, offset, keyword_head_offset, lineNumber, lineNumber, 0, null, desiredReturnType, location, classesInActiveEditor, functionsInActiveEditor, true);
-		setLogSite(site, outputLogList);
-
-		
-		//履歴使わない。
-			//履歴の読み込み
-			//List<UsedString> usedList = new ArrayList<UsedString>();
-			//readUsedStringList(usedList);
-		
-			//Iterator<String> it = outputs.keySet().iterator();
-		/*
-        while(it.hasNext()){
-        	String out = it.next();
-			MyCompletionProposal mcp = new MyCompletionProposal(out, offset, 0, out.length(), keywords, desiredReturnType, outputs.get(out));
-			//『キーワードと返り値の型と文字列の組』が履歴に含まれるかを確認
-
-			int usedCount = 0;//履歴に存在しないとき、回数0
-			for(UsedString used: usedList){
-				if(used.keywords.equals(keywords) && used.desiredReturnType.equals(desiredReturnType) && used.replacementString.equals(out)){
-					usedCount = used.count;
-					break;
+			
+			/*
+			 * あとで選択履歴を保存するために、
+			 * ソースコード状況を保持しておく。 
+			 * 
+			 * 選択テキストとテキスト長は、
+			 * 候補が選択されてから入力する。
+			 */
+			TestSite site = new TestSite(className, offset, keyword_head_offset, lineNumber, lineNumber, 0, null, desiredReturnType, location, classesInActiveEditor, functionsInActiveEditor, true);
+			setLogSite(site, outputLogList);
+	
+			
+			//履歴使わない。
+				//履歴の読み込み
+				//List<UsedString> usedList = new ArrayList<UsedString>();
+				//readUsedStringList(usedList);
+			
+				//Iterator<String> it = outputs.keySet().iterator();
+			/*
+	        while(it.hasNext()){
+	        	String out = it.next();
+				MyCompletionProposal mcp = new MyCompletionProposal(out, offset, 0, out.length(), keywords, desiredReturnType, outputs.get(out));
+				//『キーワードと返り値の型と文字列の組』が履歴に含まれるかを確認
+	
+				int usedCount = 0;//履歴に存在しないとき、回数0
+				for(UsedString used: usedList){
+					if(used.keywords.equals(keywords) && used.desiredReturnType.equals(desiredReturnType) && used.replacementString.equals(out)){
+						usedCount = used.count;
+						break;
+					}
 				}
+				mcp.plusEVec(usedCount);//最終的な木の評価値を上げている
+				mcp.setCount(usedCount);//履歴に保存されている出現回数
+	
+				//リストに追加
+				proposalList.add(mcp);
 			}
-			mcp.plusEVec(usedCount);//最終的な木の評価値を上げている
-			mcp.setCount(usedCount);//履歴に保存されている出現回数
-
-			//リストに追加
-			proposalList.add(mcp);
+			*/
+			
+		}catch(Exception e){
+			//変な場所で起動したりしたときなどの例外をキャッチする。
+			e.printStackTrace();
 		}
-		*/
-
 		 long stop = System.currentTimeMillis();
 		 System.out.println("実行にかかった時間は " + (stop - start) + " ミリ秒です。JavaCompletionProposalComputer.computeCompletionProposals");
 		return proposalList;

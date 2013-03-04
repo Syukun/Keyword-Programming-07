@@ -2,7 +2,7 @@ Manifest-Version: 1.0
 Bundle-ManifestVersion: 2
 Bundle-Name: Keyword Programming Sayuu
 Bundle-SymbolicName: jp.ac.hokudai.eng.complex.kussharo.sayuu.kp;singleton:=true
-Bundle-Version: 1.0.902.qualifier
+Bundle-Version: 1.0.905.qualifier
 Bundle-Activator: plugin.activator.Activator
 Bundle-Vendor: Yusuke Sakamoto
 Require-Bundle: org.eclipse.ui,

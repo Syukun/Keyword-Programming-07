@@ -1223,6 +1223,7 @@ public class AstUtil {
 				else
 					keywords = "";
 				desiredReturnType = AstUtil.getITypeBindingName(methodDec.resolveBinding().getReturnType(), false);
+				break;
 			case VARIABLE_DECLARATION_STATEMENT:	//宣言文
 				//"="の右辺がキーワード。左辺がdesiredTypeと認識。
 				int id = keywords.indexOf("=");
